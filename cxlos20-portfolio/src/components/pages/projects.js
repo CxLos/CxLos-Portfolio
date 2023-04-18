@@ -11,18 +11,18 @@ const Projects = () => {
 
                 <div className="">
                 <div className="p-box">
-                        <a href="https://github.com/CxLos/CxLos20-React-Portfolio">
-                            <h2>React Portfolio</h2>
+                        <a href="https://rbarbosa51.github.io/whatacrypto-crypto-game/">
+                            <h2>Whatacrypto</h2>
                         </a>
                     </div>
                     <div className="p-box">
-                        <a href="https://github.com/CxLos/CxLos19-Text-Editor">
-                            <h2>CxLos19 Text Editor</h2>
+                        <a href="https://characterize-this.herokuapp.com/">
+                            <h2>Character Generator</h2>
                         </a>
                     </div>
                     <div className="p-box">
-                        <a href="https://github.com/CxLos/CxLos18-Social-Network">
-                            <h2>Cxlos18 Social Network</h2>
+                        <a href="https://birdbrain.herokuapp.com/">
+                            <h2>Bird Brain</h2>
                         </a>
                     </div>
                 </div>
