@@ -14,7 +14,7 @@ const Resume = () => {
                 {/* <img className='image' alt='resume' src='../assets/images/Screenshot-142539.png'/> */}
                 {/* <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-115502.png`)}/>
                 <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-120004.png`)}/> */}
-                <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-120712.png`)}/>
+                <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-163937.png`)}/>
             </div>
         </div>
     );
