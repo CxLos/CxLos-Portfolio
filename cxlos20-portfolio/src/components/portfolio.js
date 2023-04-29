@@ -5,6 +5,7 @@ import About from './pages/about'
 import Projects from './pages/projects';
 import Resume from './pages/resume'
 import Contact from './pages/contact'
+import Footer from './pages/footer'
 
 const Portfolio = () => {
 
@@ -33,7 +34,7 @@ const Portfolio = () => {
         <div>
           <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
           {renderPage()}
-
+{/* 
           <footer className='foot'>
 
             <div className='links'>
@@ -47,7 +48,9 @@ const Portfolio = () => {
               </a>
             </div>
 
-          </footer>
+          </footer> */}
+
+          <Footer />
           
         </div>
         

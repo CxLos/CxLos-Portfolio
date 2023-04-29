@@ -56,6 +56,25 @@ header{
   flex-direction: column;
 }
 
+.welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-self: center;
+  align-items: center;
+  color: rgb(202, 202, 202);
+  font-size: 17px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 40;
+  text-align: center;
+  /* margin-top: 30px; */
+  /* border-right: 4px solid;
+  padding: 50px 80px 0px -50px;
+  margin: 0px 0px 0px 0px; */
+}
+
 .about {
   display: flex;
   flex-direction: column;
@@ -101,7 +120,6 @@ header{
   /* align-items: center; */
   /* background-color: rgb(46, 105, 253); */
   color: white;
-  font-size: 20px;
   font-family: 'Roboto', sans-serif;
   /* font-weight: 100; */
   /* padding: 10px; */
@@ -113,7 +131,7 @@ header{
   display: flex;
   align-items: center;
   align-content: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .navbar2 ul {
@@ -127,7 +145,7 @@ header{
 
 .navbar2 ul li a {
   text-decoration: none;
-  font-size: 28px;
+  font-size: 20px;
   color: rgb(230, 230, 230);
   border: 2px solid;
   border-radius: 8px;
@@ -138,24 +156,6 @@ header{
   opacity: 0.6;
 }
 
-.welcome {
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  align-self: center;
-  align-items: center;
-  color: rgb(202, 202, 202);
-  font-size: 17px;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 40;
-  text-align: center;
-  /* margin-top: 30px; */
-  /* border-right: 4px solid;
-  padding: 50px 80px 0px -50px;
-  margin: 0px 0px 0px 0px; */
-}
-
 .carlos {
   display: flex;
   justify-content: center;
@@ -163,15 +163,13 @@ header{
   align-self: center;
   align-items: center;
   color: rgb(202, 202, 202);
-  font-size: 30px;
+  font-size: 25px;
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
-  text-align: center;
-  /* margin-top: 30px; */
   border-right: 4px solid;
   padding: 0px 0px 0px 0px;
-  margin: 0px 0px 0px 0px;
+  margin: 0px 0px 0px -70px;
 }
 
 .carlos h1 {
@@ -264,7 +262,7 @@ header{
   border-radius: 8px;
   border-color: rgb(202, 202, 202);
   background-color: rgb(73, 140, 255);
-  padding: 15px 0px 15px 0px;
+  padding: 15px 20px 15px 0px;
   margin: 0% 0% 0% 40%;
   width: 20%;
 }
@@ -330,3 +328,10 @@ input {
   background-image: src=('../assets/images/Screenshot-142642.png');
 }
 
+.space {
+  height: 60vh;
+  width: 85vw;
+  border: 5px solid;
+  border-color: rgb(46, 105, 253);
+  color: rgb(46, 105, 253);
+}
