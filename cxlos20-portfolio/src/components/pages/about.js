@@ -17,7 +17,7 @@ const About = () => {
                 <div className='border'>
                     <div>
                         <p className='bio'>
-                            Hello and Welcome to my portfolio! My name is Carlos Bautista and I am a Full Stack Web Developer. I am a graduate of the University of Texas at Austin Coding Bootcamp. I am from New Jersey and I am currently living in the Austin area. I graduated in 2017 from Montclair State University with a B.S. in International Business and have been working in the field ever since. I took this bootcamp because I wanted to expand my skillset and also shift careers.        
+                            Hello and Welcome to my portfolio! My name is Carlos Bautista and I am a Full Stack Web Developer. I am a graduate of the University of Texas at Austin Coding Bootcamp. I am from New Jersey and I am currently living in the Austin area. I graduated from Montclair State University with a B.S. in International Business and have been working in the field ever since. I took this bootcamp because I wanted to expand my skillset and apply them in the workforce.        
                         </p>
                     </div>
                 </div>
