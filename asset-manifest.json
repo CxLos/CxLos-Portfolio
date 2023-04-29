@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CxLos20-React-Portfolio/static/css/main.f1e5aa42.css",
-    "main.js": "/CxLos20-React-Portfolio/static/js/main.bab52c89.js",
+    "main.css": "/CxLos20-React-Portfolio/static/css/main.ebc569e5.css",
+    "main.js": "/CxLos20-React-Portfolio/static/js/main.93b5bbd4.js",
     "static/js/787.a13e10bb.chunk.js": "/CxLos20-React-Portfolio/static/js/787.a13e10bb.chunk.js",
     "static/media/1519B6C9.jpg": "/CxLos20-React-Portfolio/static/media/1519B6C9.d7aa57ac5c36a7d6c892.jpg",
     "static/media/Screenshot-224148.png": "/CxLos20-React-Portfolio/static/media/Screenshot-224148.169750efa918b2a4c44e.png",
     "index.html": "/CxLos20-React-Portfolio/index.html",
-    "main.f1e5aa42.css.map": "/CxLos20-React-Portfolio/static/css/main.f1e5aa42.css.map",
-    "main.bab52c89.js.map": "/CxLos20-React-Portfolio/static/js/main.bab52c89.js.map",
+    "main.ebc569e5.css.map": "/CxLos20-React-Portfolio/static/css/main.ebc569e5.css.map",
+    "main.93b5bbd4.js.map": "/CxLos20-React-Portfolio/static/js/main.93b5bbd4.js.map",
     "787.a13e10bb.chunk.js.map": "/CxLos20-React-Portfolio/static/js/787.a13e10bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1e5aa42.css",
-    "static/js/main.bab52c89.js"
+    "static/css/main.ebc569e5.css",
+    "static/js/main.93b5bbd4.js"
   ]
 }
