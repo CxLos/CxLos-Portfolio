@@ -8,7 +8,7 @@ const Contact = () => {
     const [input, setInput] = useState({
         name: "",
         email: "",
-        message:""
+        message: ""
     });
 
     const { name, email, message } = input;
@@ -42,32 +42,37 @@ const Contact = () => {
 
             <div className='contact'>
                 <form className='' onSubmit={ContactSubmit}>
-                    <div className='input'>
-                        <input className="" 
-                        type='text' 
-                        placeholder='Name' name='name' 
-                        defaultValue={name}
-                        onBlur={handleChange}
-                        >
-                        </input>
+                    <div className=''>
+                        <div className='input'>
+                            <input className="" 
+                            type='text' 
+                            placeholder='Name' name='name' 
+                            defaultValue={name}
+                            onBlur={handleChange}
+                            >
+                            </input>
+                        </div>
+                        <div className='input'>
+                            <input className='resize' 
+                            type='email' 
+                            placeholder='E-mail' 
+                            name='email' 
+                            value={email}
+                            onBlur={handleChange}>
+                            </input>
+                        </div>
+                        <div className='input'>
+                            <input className='' 
+                            type='text' 
+                            placeholder='Brief message here' 
+                            name='body' 
+                            value={message}
+                            onBlur={handleChange}>
+                            </input>
+                        </div>
                     </div>
-                    <div className='input'>
-                        <input className='' 
-                        type='email' 
-                        placeholder='e-mail' 
-                        name='email' 
-                        value={email}
-                        onBlur={handleChange}>
-                        </input>
-                    </div>
-                    <div className='input'>
-                        <input className='' 
-                        type='text' 
-                        placeholder='Brief message here' 
-                        name='body' 
-                        value={message}
-                        onBlur={handleChange}>
-                        </input>
+                    <div className='submit'>
+                        <button className=''>Submit</button>
                     </div>
                 </form>
             </div>

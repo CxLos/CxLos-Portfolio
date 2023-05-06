@@ -36,8 +36,8 @@ const Projects = () => {
                         </a>
                     </div>
                     <div className="p-box">
-                        <a href="https://github.com/CxLos/CxLos13-eCommerce-BackEnd">
-                            <h2>CxLos13 eCommerce Backend</h2>
+                        <a href="https://cxlos.github.io/CxLos5-Planner/">
+                            <h2>CxLos5 Planner</h2>
                         </a>
                     </div>
                     <div className="p-box">
