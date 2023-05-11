@@ -9,13 +9,18 @@ const Resume = () => {
                     <h1>Resume</h1>
                 </header>
             </div>
-          
-            <div className='rbox'>
-                {/* <img className='image' alt='resume' src='../assets/images/Screenshot-142539.png'/> */}
-                {/* <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-115502.png`)}/>
-                <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-120004.png`)}/> */}
-                <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-224148.png`)}/>
-            </div>
+
+            <div className="rbox">
+                    {/* <div className='rbox1'>
+                        <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-224148.png`)}/>
+                    </div> */}
+                    <div className='rbox1'>
+                        <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-225715.png`)}/>
+                    </div>
+                    <div className='rbox1'>
+                        <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-225613.png`)}/>
+                    </div>
+                </div>
         </div>
     );
 };
