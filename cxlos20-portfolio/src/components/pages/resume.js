@@ -21,3 +21,38 @@ const Resume = () => {
 };
 
 export default Resume;
+
+//                 <form className='' onSubmit={ContactSubmit}>
+//                     <div className=''>
+//                         <div className='input'>
+//                             <input className="" 
+//                             type='text' 
+//                             placeholder='Name' name='name' 
+//                             defaultValue={name}
+//                             onBlur={handleChange}
+//                             >
+//                             </input>
+//                         </div>
+//                         <div className='input'>
+//                             <input className='resize' 
+//                             type='email' 
+//                             placeholder='E-mail' 
+//                             name='email' 
+//                             value={email}
+//                             onBlur={handleChange}>
+//                             </input>
+//                         </div>
+//                         <div className='input'>
+//                             <input className='' 
+//                             type='text' 
+//                             placeholder='Brief message here' 
+//                             name='body' 
+//                             value={message}
+//                             onBlur={handleChange}>
+//                             </input>
+//                         </div>
+//                     </div>
+//                     <div className='submit'>
+//                         <button className=''>Submit</button>
+//                     </div>
+//                 </form>

@@ -263,7 +263,7 @@ header{
   border-radius: 8px;
   border-color: rgb(202, 202, 202);
   background-color: rgb(73, 140, 255);
-  padding: 15px 0px 15px 0px;
+  padding: 15px 0px 15px 10px;
   margin: 0% 0% 0% 40%;
   width: 20%;
 }
@@ -273,7 +273,7 @@ header{
   border-radius: 8px;
   border-color: rgb(112, 160, 255);
   width: 80%;
-  resize: vertical;
+  /* resize: vertical; */
   /* border-color: white;
   font-size: 10px;
   padding: 10px 10px 10px 10px;
@@ -282,8 +282,12 @@ header{
   height: 10% */
 }
 
-.resize {
-  resize: both;
+textarea {
+  border: 3px solid;
+  border-radius: 8px;
+  border-color: rgb(112, 160, 255);
+  width: 80%;
+  /* resize: both; */
 }
 
 input {
