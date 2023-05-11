@@ -84,7 +84,6 @@
 
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
-import Title from "./title.js"
 // import styled from "styled-components";
 
 // npm i @emailjs/browser
@@ -117,7 +116,7 @@ const Contact = () => {
   return (
     // <StyledContactForm>
 		<div>
-			<Title />
+			{/* <Title /> */}
 			<header>
 				<h1>Contact Me</h1>
 			</header>
@@ -134,7 +133,12 @@ const Contact = () => {
 							<input type="email" name="user_email" placeholder='Your e-mail' />
 						</div>
 						<div className= "input">
-							<label>Message</label>
+							{/* <label>Message</label>
+							<input name="message" placeholder='Brief message here'  /> */}
+						</div>
+						<div className= "input">
+							{/* <label>Message</label> */}
+							<p>Message</p>
 							<textarea name="message" placeholder='Brief message here'  />
 						</div>
 						<div className= "submit">
