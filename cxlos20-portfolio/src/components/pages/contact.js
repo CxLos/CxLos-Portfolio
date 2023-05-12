@@ -106,6 +106,7 @@ const Contact = () => {
         (result) => {
           console.log(result.text);
           console.log("Message sent!");
+          alert("Thank you for your email!");
         },
         (error) => {
           console.log(error.text);
