@@ -207,18 +207,20 @@ header{
 
 .p-box {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  border: 2px solid;
+  border: 3px solid;
   border-radius: 4px;
   border-color: rgb(202, 202, 202);
   background-color: rgb(46, 105, 253);
   justify-content: center;
-  width: 50%;
-  margin: 20px;
+  width: 12vw;
   text-align: center;
-  padding: 0px 20px 0px 20px;
+  /* padding: 0px 20px 0px 20px; */
+  margin: 20px;
   font-size: 12px;
   text-decoration: none;
+  background-color: rgb(97, 140, 246)
 }
 
 .p-box a {
@@ -229,6 +231,7 @@ header{
 
 .p-box h2:hover {
   opacity: 0.6;
+  text-decoration: underline;
 }
 
 .rbox {
@@ -380,6 +383,23 @@ textarea {
 
 .image {
   background-image: src=('../assets/images/Screenshot-142642.png');
+}
+
+.ptitle {
+  /* background-color: rgb(97, 140, 246); */
+  border-bottom: 2px solid;
+  padding: 0px 0px 10px 0px;
+}
+
+.img2 {
+  width: 12vw;
+  height: 17vh;
+  margin: -7.4px 0px -7.4px 0px;
+}
+
+.img3 {
+  width: 12vw;
+  height: 17vh;
 }
 
 .space {
