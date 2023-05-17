@@ -192,6 +192,18 @@ header{
   flex-direction: column;
 }
 
+.projects2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.projects3 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
 .p-border {
   display: flex;
   flex-direction: row;
@@ -395,6 +407,11 @@ textarea {
   width: 12vw;
   height: 17vh;
   margin: -7.4px 0px -7.4px 0px;
+}
+
+.img2:hover {
+  opacity: 0.8;
+  cursor: pointer;
 }
 
 .img3 {

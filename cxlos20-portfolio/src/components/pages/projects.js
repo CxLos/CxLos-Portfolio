@@ -8,81 +8,80 @@ const Projects = () => {
             </header>
 
             <div className='p-border'>
-
-                <div className="">
+                <div className="projects2">
                     <div className="p-box">
-                        <div>
-                            <a href="https://rbarbosa51.github.io/whatacrypto-crypto-game/">
-                            <h2 className='ptitle'>Whatacrypto</h2>
-                            </a>
-                        </div>
-                        <div className='img2'>
-                            <img className='img2' alt='' src={require(`./screenshots/Screenshot-185839.png`)}/>
-                        </div>
+                        <a href="https://rbarbosa51.github.io/whatacrypto-crypto-game/">
+                            <div>
+                                <h2 className='ptitle'>Whatacrypto</h2> 
+                            </div>
+                            <div className='img2'>
+                                <img className='img2' alt='' src={require(`./screenshots/Screenshot-185839.png`)}/>
+                            </div>
+                        </a>
                     </div>
 
                     <div className="p-box">
-                        <div>
-                            <a href="https://characterize-this.herokuapp.com/">
+                        <a href="https://characterize-this.herokuapp.com/">
+                            <div>
                                 <h2 className='ptitle'>Character Generator</h2>
-                            </a>
-                        </div>
-                        <div className='img2'>
-                            <img className='img2' alt='' src={require(`./screenshots/character-form.png`)}/>
-                        </div>
+                            </div>
+                            <div className='img2'>
+                                <img className='img2' alt='' src={require(`./screenshots/character-form.png`)}/>
+                            </div>
+                        </a>
                     </div>
 
                     <div className="p-box">
-                        <div>
-                            <a href="https://birdbrain.herokuapp.com/">
+                        <a href="https://birdbrain.herokuapp.com/">
+                            <div>
                                 <h2 className='ptitle'>Bird Brain</h2>
-                            </a>
-                        </div>
-                        <div className='img2'>
-                            <img className='img2' alt='' src={require(`./screenshots/Screenshot-151238.png`)}/>
-                        </div>
+                            </div>
+                            <div className='img2'>
+                                <img className='img2' alt='' src={require(`./screenshots/Screenshot-151238.png`)}/>
+                            </div>
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div className="">
+            <div className='p-border'>
+                <div className="projects2">
                     <div className="p-box">
-                        <div>
-                            <a href="https://github.com/CxLos/CxLos14-CMS-BlogSite">
-                                {/* <a href="https://cxlos13-ecommerce-backend.herokuapp.com/"> */}
-                                <h2 className='ptitle'>CxLos14 Blog Site</h2>
-                            </a>
-                        </div>
-                        <div className='img2'>
-                            <img className='img2' alt='' src={require(`./screenshots/Screenshot-192357.png`)}/>
-                        </div>
+                        <a href="https://cxlos14-cms-blogsite.herokuapp.com/">
+                            <div>
+                                <h2 className='ptitle'>CxLos14 Blog Site</h2> 
+                            </div>
+                            <div className='img2'>
+                                <img className='img2' alt='' src={require(`./screenshots/Screenshot-192357.png`)}/>
+                            </div>
+                        </a>
                     </div>
 
                     <div className="p-box">
-                        <div>
-                            <a href="https://cxlos.github.io/CxLos5-Planner/">
-                                <h2 className='ptitle'>CxLos5 Planner</h2>        
-                            </a>
-                        </div>
-                        <div className='img2'>
-                            <img className='img2' alt='' src={require(`./screenshots/Screenshot-164251.png`)}/>
-                        </div>
+                        <a href="https://cxlos.github.io/Cxlos6-Weather-App/">
+                            <div>
+                                <h2 className='ptitle'>CxLos6 Weather App</h2>        
+                            </div>
+                            <div className='img2'>
+                                <img className='img2' alt='' src={require(`./screenshots/Screenshot-191817.png`)}/>
+                            </div>
+                        </a>
                     </div>
 
                     <div className="p-box">
-                        <div>
-                            <a href="https://cxlos.github.io/CxLos-Password-Generator3/">
-                                <h2 className='ptitle'>CxLos Password Generator 3</h2>   
-                            </a>
-                        </div>
-                        <div className='img2'>
-                            <img className='img2' alt='' src={require(`./screenshots/Screenshot-163626.png`)}/>
-                        </div>
+                        <a href="https://cxlos.github.io/CxLos-Password-Generator3/">
+                            <div>
+                                <h2 className='ptitle'>CxLos Password Generator</h2>   
+                            </div>
+                            <div className='img2'>
+                                <img className='img2' alt='' src={require(`./screenshots/Screenshot-163626.png`)}/>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
 );
-
 };
 
 export default Projects;
