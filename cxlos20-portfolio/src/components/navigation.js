@@ -14,13 +14,13 @@ function Navigation ({ currentPage, handlePageChange }) {
                 <div className='navbar2'>
                     
                     <ul className="">
-                        <li className="">
+                        {/* <li className="">
                             <a href="#home" 
                             // className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('Home')}>
                                 Home
                             </a>
-                        </li>
+                        </li> */}
                         <li className="">
                             <a href="#about" c
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 

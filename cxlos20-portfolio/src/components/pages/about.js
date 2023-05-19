@@ -5,7 +5,7 @@ const About = () => {
         <div className="page">
 
             <header>
-                <h1>About Me</h1>
+                <h1>Software Developer</h1>
             </header>
 
             <div className='about'>
@@ -17,7 +17,7 @@ const About = () => {
                 <div className='border'>
                     <div>
                         <p className='bio'>
-                            Hello and Welcome to my portfolio! My name is Carlos Bautista and I am a Full Stack Web Developer. I am a graduate of the University of Texas at Austin Coding Bootcamp. I am from New Jersey and I am currently living in the Austin area. I graduated from Montclair State University with a B.S. in International Business and have been working in the field ever since. I took this bootcamp because I wanted to expand my skillset and apply them in the workforce.        
+                            Hello and Welcome to my portfolio! My name is Carlos Bautista and I am a Full Stack Web Developer. I am a graduate of the University of Texas at Austin Coding Bootcamp. I am also a graduate from Montclair State University with a B.S. in Business Administration with a concentration in International Business. I am from New Jersey and I am currently living in the Austin area. I decided to enroll in a coding bootcamp to expand my skillset and learn about software development and apply my new skills to the workforce.        
                         </p>
                     </div>
                 </div>
