@@ -21,10 +21,9 @@ N/A
 
 ## Usage
 
-application
-[Portfolio](https://cxlos.github.io/CxLos20-React-Portfolio/)
+[My Portfolio](https://cxlos.github.io/CxLos20-React-Portfolio/)
 
-![Preview](./assets/images/Screenshot-120155.png)
+![Preview](./src/components/pages/screenshots/Screenshot-180705.png)
 
 ## Badges
 
