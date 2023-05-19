@@ -23,7 +23,7 @@ N/A
 
 [Portfolio](https://cxlos.github.io/CxLos20-React-Portfolio/)
 
-![Preview](./assets/images/Screenshot-120155.png)
+![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-180705.png)
 
 ## Badges
 
