@@ -21,7 +21,6 @@ N/A
 
 ## Usage
 
-application
 [Portfolio](https://cxlos.github.io/CxLos20-React-Portfolio/)
 
 ![Preview](./assets/images/Screenshot-120155.png)
