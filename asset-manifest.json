@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/CxLos20-React-Portfolio/static/css/main.226d42e0.css",
-    "main.js": "/CxLos20-React-Portfolio/static/js/main.03bfcc76.js",
+    "main.css": "/CxLos20-React-Portfolio/static/css/main.62c185e4.css",
+    "main.js": "/CxLos20-React-Portfolio/static/js/main.e1618988.js",
     "static/js/787.a13e10bb.chunk.js": "/CxLos20-React-Portfolio/static/js/787.a13e10bb.chunk.js",
     "static/media/1519B6C9.jpg": "/CxLos20-React-Portfolio/static/media/1519B6C9.d7aa57ac5c36a7d6c892.jpg",
     "static/media/Screenshot-151238.png": "/CxLos20-React-Portfolio/static/media/Screenshot-151238.90d02a3f6f61cabc9905.png",
     "static/media/Screenshot-185839.png": "/CxLos20-React-Portfolio/static/media/Screenshot-185839.0863a953eaf69c775eda.png",
     "static/media/character-form.png": "/CxLos20-React-Portfolio/static/media/character-form.bc035b7c25d20085e5ea.png",
-    "static/media/Screenshot-225715.png": "/CxLos20-React-Portfolio/static/media/Screenshot-225715.0dc67d17bac37a9145b9.png",
+    "static/media/Screenshot-180127.png": "/CxLos20-React-Portfolio/static/media/Screenshot-180127.ba107bb83ce699e5fad8.png",
     "static/media/Screenshot-163626.png": "/CxLos20-React-Portfolio/static/media/Screenshot-163626.40b8aa1d1f642babf886.png",
     "static/media/Screenshot-191817.png": "/CxLos20-React-Portfolio/static/media/Screenshot-191817.2038376ef58ffeb508ca.png",
     "static/media/Screenshot-192357.png": "/CxLos20-React-Portfolio/static/media/Screenshot-192357.1d0cab11acdb3af2222e.png",
-    "static/media/Screenshot-225613.png": "/CxLos20-React-Portfolio/static/media/Screenshot-225613.e7e9250f43ca9f67114b.png",
     "index.html": "/CxLos20-React-Portfolio/index.html",
-    "main.226d42e0.css.map": "/CxLos20-React-Portfolio/static/css/main.226d42e0.css.map",
-    "main.03bfcc76.js.map": "/CxLos20-React-Portfolio/static/js/main.03bfcc76.js.map",
+    "main.62c185e4.css.map": "/CxLos20-React-Portfolio/static/css/main.62c185e4.css.map",
+    "main.e1618988.js.map": "/CxLos20-React-Portfolio/static/js/main.e1618988.js.map",
     "787.a13e10bb.chunk.js.map": "/CxLos20-React-Portfolio/static/js/787.a13e10bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.226d42e0.css",
-    "static/js/main.03bfcc76.js"
+    "static/css/main.62c185e4.css",
+    "static/js/main.e1618988.js"
   ]
 }
