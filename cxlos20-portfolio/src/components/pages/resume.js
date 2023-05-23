@@ -15,7 +15,7 @@ const Resume = () => {
                         <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-224148.png`)}/>
                     </div> */}
                     <div className='rbox1'>
-                        <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-180127.png`)}/>
+                        <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-122247.png`)}/>
                     </div>
                     <div className='rbox1'>
                         {/* <img className='resume' alt='resume' src={require(`./screenshots/Screenshot-225613.png`)}/> */}
@@ -26,4 +26,3 @@ const Resume = () => {
 };
 
 export default Resume;
-
