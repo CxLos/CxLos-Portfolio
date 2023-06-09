@@ -21,7 +21,8 @@ const Projects = () => {
                     </div>
 
                     <div className="p-box">
-                        <a href="https://characterize-this.herokuapp.com/">
+                        <a href="https://cxlos-character-generator.herokuapp.com/">
+                        {/* <a href="https://characterize-this.herokuapp.com/"> */}
                             <div>
                                 <h2 className='ptitle'>Character Generator</h2>
                             </div>
@@ -32,7 +33,8 @@ const Projects = () => {
                     </div>
 
                     <div className="p-box">
-                        <a href="https://birdbrain.herokuapp.com/">
+                        <a href="https://cxlos-bird-brain.herokuapp.com/">
+                        {/* <a href="https://birdbrain.herokuapp.com/"> */}
                             <div>
                                 <h2 className='ptitle'>Bird Brain</h2>
                             </div>
