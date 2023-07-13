@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/CxLos20-React-Portfolio/static/css/main.39f3a495.css",
-    "main.js": "/CxLos20-React-Portfolio/static/js/main.9559ea7f.js",
+    "main.js": "/CxLos20-React-Portfolio/static/js/main.52ccfc77.js",
     "static/js/787.a13e10bb.chunk.js": "/CxLos20-React-Portfolio/static/js/787.a13e10bb.chunk.js",
     "static/media/Screenshot-131401.png": "/CxLos20-React-Portfolio/static/media/Screenshot-131401.2b0d8d14da7ab66ce171.png",
     "static/media/Screenshot-151238.png": "/CxLos20-React-Portfolio/static/media/Screenshot-151238.90d02a3f6f61cabc9905.png",
     "static/media/Screenshot-185839.png": "/CxLos20-React-Portfolio/static/media/Screenshot-185839.0863a953eaf69c775eda.png",
     "static/media/character-form.png": "/CxLos20-React-Portfolio/static/media/character-form.bc035b7c25d20085e5ea.png",
-    "static/media/Screenshot-122247.png": "/CxLos20-React-Portfolio/static/media/Screenshot-122247.0e5fc84b937d96e5b5b7.png",
+    "static/media/Screenshot-154145.png": "/CxLos20-React-Portfolio/static/media/Screenshot-154145.41297a9eccb796839cfa.png",
     "static/media/Screenshot-163626.png": "/CxLos20-React-Portfolio/static/media/Screenshot-163626.40b8aa1d1f642babf886.png",
     "static/media/Screenshot-191817.png": "/CxLos20-React-Portfolio/static/media/Screenshot-191817.2038376ef58ffeb508ca.png",
     "static/media/Screenshot-192357.png": "/CxLos20-React-Portfolio/static/media/Screenshot-192357.1d0cab11acdb3af2222e.png",
+    "static/media/Screenshot-154334.png": "/CxLos20-React-Portfolio/static/media/Screenshot-154334.09d99cc1dd452ac18521.png",
     "index.html": "/CxLos20-React-Portfolio/index.html",
     "main.39f3a495.css.map": "/CxLos20-React-Portfolio/static/css/main.39f3a495.css.map",
-    "main.9559ea7f.js.map": "/CxLos20-React-Portfolio/static/js/main.9559ea7f.js.map",
+    "main.52ccfc77.js.map": "/CxLos20-React-Portfolio/static/js/main.52ccfc77.js.map",
     "787.a13e10bb.chunk.js.map": "/CxLos20-React-Portfolio/static/js/787.a13e10bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39f3a495.css",
-    "static/js/main.9559ea7f.js"
+    "static/js/main.52ccfc77.js"
   ]
 }
