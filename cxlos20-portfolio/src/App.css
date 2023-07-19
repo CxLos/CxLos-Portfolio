@@ -94,8 +94,10 @@ header{
   border-radius: 200px;
   border-color: rgb(0, 49, 198);
   box-shadow: 0px 0px 20px 10px rgb(0, 49, 198);
-  width: 16vw;
-  height: 32vh;
+  width: 280px;
+  height: 280px;
+  /* width: 16vw;
+  height: 32vh; */
   align-items: center;
   align-self: center;
   align-content: center;
@@ -266,11 +268,17 @@ header{
   display: flex;
   flex-direction: column;
   justify-content: center;
+    align-content: center;
+  align-items: center;
+  align-self: center;
 }
 
 .rbox1 {
   display: flex;
   justify-content: center;
+  align-content: center;
+  align-items: center;
+  align-self: center;
   margin: 0px 0px 10px 0px;
   /* height: 30%; */
   /* flex-direction: column; */
@@ -282,7 +290,8 @@ header{
   /* border-color: rgb(162, 187, 234); */
   /* border-color: rgb(19, 40, 230); */
   border-color: rgb(0, 0, 0);
-  /* height: 30%; */
+  height: 100%;
+  width: 80%;
 }
 
 .resume:hover {
