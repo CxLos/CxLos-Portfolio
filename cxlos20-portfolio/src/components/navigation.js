@@ -22,17 +22,24 @@ function Navigation ({ currentPage, handlePageChange }) {
                             </a>
                         </li> */}
                         <li className="">
-                            <a href="#about" c
+                            <a href="#about" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('About')}>
                                 About
                             </a>
                         </li>
                         <li className="">
+                            <a href="#data" 
+                            // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
+                            onClick={() => handlePageChange('Data')}>
+                                Data Analytics
+                            </a>
+                        </li>
+                        <li className="">
                             <a href="#projects" 
                             // className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('Projects')}>
-                                Projects
+                                Web Apps
                             </a>
                         </li>
                         <li className="">

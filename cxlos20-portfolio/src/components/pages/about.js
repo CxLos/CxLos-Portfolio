@@ -5,7 +5,7 @@ const About = () => {
         <div className="page">
 
             <header>
-                <h1>Software Developer</h1>
+                <h1>Data Analyst/ Web Developer</h1>
             </header>
 
             <div className='about'>
@@ -17,7 +17,7 @@ const About = () => {
                 <div className='border'>
                     <div>
                         <p className='bio'>
-                            Hello and Welcome to my portfolio! My name is Carlos Bautista and I am a Full Stack Web Developer. I am a graduate of the University of Texas at Austin Coding Bootcamp. I am also a graduate from Montclair State University with a B.S. in Business Administration with a concentration in International Business. I am originally from New Jersey and currently living in the Austin area. I decided to enroll in a coding bootcamp because I developed a passion for building web applications and I also wanted to expand my skillset to learn about software development. My strengths include problem solving, team building, and creativity. I am currently seeking a position as a Full Stack Web Developer. Please feel free to contact me if you have any questions or would like to connect!     
+                            Hello and Welcome to my portfolio! My name is Carlos Bautista and I am a Data Analyst and Web Developer.I am a graduate from Montclair State University with a B.S. in Business Administration with a concentration in International Business. I also have a certificate from IBM in Data Analytics as well as a Full Stack Web Development certificate from The University of Texas at Austin. I am originally from New Jersey and moved to Austin back in the summer of 2021. Since moving here, I developed a strong interest in coding and working with databases, so I decided it was time to further my education and learn more about the tech industry. From here, I realized I really enjoy working with numbers and trying to find the meaning behind them, then presenting that information to tell a story. Please feel free to contact me if you have any questions or would like to connect!     
                         </p>
                     </div>
                 </div>

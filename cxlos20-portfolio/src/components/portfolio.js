@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Navigation from './navigation';
 import Home from './pages/home'
 import About from './pages/about'
+import Data from './pages/data'
 import Projects from './pages/projects';
 import Resume from './pages/resume'
 import Contact from './pages/contact'
@@ -17,6 +18,9 @@ const Portfolio = () => {
       }
       if (currentPage === 'About') {
         return <About />;
+      }
+      if (currentPage === 'Data') {
+        return <Data />;
       }
       if (currentPage === 'Projects') {
         return <Projects />;
