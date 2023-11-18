@@ -5,7 +5,7 @@ const Resume = () => {
         <div className=''>
             
             <div classname=''>
-                <header className=''>
+                <header>
                     <h1>Resume</h1>
                 </header>
             </div>
