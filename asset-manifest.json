@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CxLos-Portfolio/static/css/main.e9f2ddb5.css",
+    "main.css": "/CxLos-Portfolio/static/css/main.a4cb9c42.css",
     "main.js": "/CxLos-Portfolio/static/js/main.11596028.js",
     "static/js/787.d3fa3b86.chunk.js": "/CxLos-Portfolio/static/js/787.d3fa3b86.chunk.js",
     "static/media/Screenshot-131401.png": "/CxLos-Portfolio/static/media/Screenshot-131401.2b0d8d14da7ab66ce171.png",
@@ -13,12 +13,12 @@
     "static/media/Screenshot-191817.png": "/CxLos-Portfolio/static/media/Screenshot-191817.2038376ef58ffeb508ca.png",
     "static/media/Screenshot-192357.png": "/CxLos-Portfolio/static/media/Screenshot-192357.1d0cab11acdb3af2222e.png",
     "index.html": "/CxLos-Portfolio/index.html",
-    "main.e9f2ddb5.css.map": "/CxLos-Portfolio/static/css/main.e9f2ddb5.css.map",
+    "main.a4cb9c42.css.map": "/CxLos-Portfolio/static/css/main.a4cb9c42.css.map",
     "main.11596028.js.map": "/CxLos-Portfolio/static/js/main.11596028.js.map",
     "787.d3fa3b86.chunk.js.map": "/CxLos-Portfolio/static/js/787.d3fa3b86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9f2ddb5.css",
+    "static/css/main.a4cb9c42.css",
     "static/js/main.11596028.js"
   ]
 }
