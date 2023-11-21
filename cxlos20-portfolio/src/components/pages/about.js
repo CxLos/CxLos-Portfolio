@@ -11,7 +11,7 @@ const About = () => {
             <div className='about'>
 
                 <div className='about1'>
-                    <img className='me' alt='resume' src={require(`./screenshots/Screenshot-131401.png`)}/>
+                    <img className='me' alt='headshot' src={require(`./screenshots/Screenshot-131401.png`)}/>
                 </div>
 
                 <div className='border'>

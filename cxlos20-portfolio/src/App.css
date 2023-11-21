@@ -104,20 +104,33 @@ header h1 {
   flex-direction: column;
   justify-content: center;
   margin: 30px 0px 30px 0px;
+  /* height: 220px; */
+  /* width: 300px; */
 }
 
 .me {
-  border-radius: 200px;
-  /* border: 2px solid; */
-  /* border-color: rgb(255, 255, 255); */
-  box-shadow: 0px 0px 40px 10px rgb(255, 255, 255);
+  border-radius: 10px;
+  border: 3px solid;
+  border-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 20px 0px white;
+  /* width: 280px;
+  height: 280px; */
   width: 280px;
-  height: 280px;
-  /* width: 16vw;
-  height: 32vh; */
+  max-width: 100%;
+  height: auto;
   align-items: center;
   align-self: center;
   align-content: center;
+}
+
+
+.me:before {
+  box-shadow:inset 0px 0px 30px 10px rgba(0,0,0,1);
+}
+
+.blur {
+  /* box-shadow: 0px 0px 40px 10px white; */
+  /* background-image: url("/components/pages/screenshots/Screenshot-131401.png"); */
 }
 
 .bio {
@@ -491,8 +504,12 @@ svg {
 }
 
 .img2 {
-  width: 12vw;
-  height: 17vh;
+  /* width: 12vw;
+  height: 17vh; */
+  max-width: 100%;
+  max-height: 100%;
+  width: 300px;
+  height:auto;
   margin: -7.4px 0px -7.4px 0px;
   border-radius: 10px;
 }
