@@ -29,6 +29,13 @@ function Navigation ({ currentPage, handlePageChange }) {
                             </a>
                         </li>
                         <li className="">
+                            <a href="#badge" 
+                            // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
+                            onClick={() => handlePageChange('Badge')}>
+                                Badges
+                            </a>
+                        </li>
+                        <li className="">
                             <a href="#data" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('Data')}>

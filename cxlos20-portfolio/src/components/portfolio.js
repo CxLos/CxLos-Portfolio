@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Navigation from './navigation';
 import Home from './pages/home'
+import Badge from './pages/badge'
 import About from './pages/about'
 import Data from './pages/data'
 import Projects from './pages/projects';
@@ -18,6 +19,9 @@ const Portfolio = () => {
       }
       if (currentPage === 'About') {
         return <About />;
+      }
+      if (currentPage === 'Badge') {
+        return <Badge />;
       }
       if (currentPage === 'Data') {
         return <Data />;
