@@ -355,9 +355,15 @@ a {
   width: 80%;
 }
 
-/* .resume:hover {
+.resume-link {
+  padding: 0px -30px 0px 0px;
+  margin: 0px -150px 0px 0px;
+  width: 40vw;
+}
+
+.resume:hover {
   opacity: 0.7;
-} */
+}
 
 .badge-box {
   display: flex;
