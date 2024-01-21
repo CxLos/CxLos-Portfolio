@@ -23,8 +23,9 @@ N/A
 
 [Portfolio](https://cxlos.github.io/CxLos-Portfolio/)
 
-![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-180706.png)
-![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-180706.png)
+![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-1.png)
+![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-1.png)
+![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-1.png)
 
 ## Badges
 
