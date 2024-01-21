@@ -1,4 +1,4 @@
-# CxLos20-React-Portfolio
+# CxLos-Portfolio
 
 ## Description
 
@@ -21,7 +21,7 @@ N/A
 
 ## Usage
 
-[Portfolio](https://cxlos.github.io/CxLos20-React-Portfolio/)
+[Portfolio](https://cxlos.github.io/CxLos-Portfolio/)
 
 ![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-180705.png)
 
