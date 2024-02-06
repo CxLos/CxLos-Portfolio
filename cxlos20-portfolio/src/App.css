@@ -617,3 +617,13 @@ svg {
   border-color: rgb(46, 105, 253);
   color: rgb(46, 105, 253);
 }
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.cursor {
+  animation: blink 1s infinite;
+}
