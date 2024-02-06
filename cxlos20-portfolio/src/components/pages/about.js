@@ -1,11 +1,58 @@
-import React from 'react';
+import React, { useState, useEffect} from 'react';
+
+
+const AnimatedTypingText = () => {
+    const [displayedText, setDisplayedText] = useState('');
+    const roles = ["Data Analyst", "Developer"];
+    const [currentRoleIndex, setCurrentRoleIndex] = useState(0);
+    const [typingForward, setTypingForward] = useState(true);
+    const [currentIndex, setCurrentIndex] = useState(0);
+
+    useEffect(() => {
+        let typingInterval;
+
+        const typeText = () => {
+            if (typingForward) {
+                if (currentIndex < roles[currentRoleIndex].length) {
+                    setDisplayedText(prevText => prevText + roles[currentRoleIndex][currentIndex]);
+                    setCurrentIndex(prevIndex => prevIndex + 1);
+                } else {
+                    setTypingForward(false);
+                }
+            } else {
+                if (currentIndex > 0) {
+                    if (currentIndex === roles[currentRoleIndex].indexOf('D') + 1) {
+                        // Stop retracting at the letter 'D'
+                        setTypingForward(true);
+                        setCurrentRoleIndex(prevIndex => (prevIndex + 1) % roles.length);
+                        return;
+                    }
+                    setDisplayedText(prevText => prevText.slice(0, -1));
+                    setCurrentIndex(prevIndex => prevIndex - 1);
+                } else {
+                    setTypingForward(true);
+                    setTimeout(() => {
+                        setCurrentRoleIndex(prevIndex => (prevIndex + 1) % roles.length);
+                    }, 3000); 
+                }
+            }
+        };
+
+        typingInterval = setInterval(typeText, 170);
+
+        return () => clearInterval(typingInterval);
+    }, [currentRoleIndex, roles, typingForward, currentIndex]);
+
+    return <h1>{displayedText}</h1>;
+};
 
 const About = () => {
     return(
         <div className="page">
 
             <header>
-                <h1>Data Analyst/ Developer</h1>
+                {/* <h1>Data Analyst/ Developer</h1> */}
+                <AnimatedTypingText />
             </header>
             <div>
             <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="61842971-ed83-498b-bf71-e0af10ad4648" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
