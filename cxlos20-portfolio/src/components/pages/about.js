@@ -5,7 +5,7 @@ const About = () => {
         <div className="page">
 
             <header>
-                <h1>Data Analyst</h1>
+                <h1>Data Analyst/ Developer</h1>
             </header>
             <div>
             <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="61842971-ed83-498b-bf71-e0af10ad4648" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
