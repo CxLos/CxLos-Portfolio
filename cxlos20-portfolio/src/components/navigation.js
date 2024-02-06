@@ -8,7 +8,7 @@ function Navigation ({ currentPage, handlePageChange }) {
             <div className='navbar1'>
             
                 <div className='carlos'>
-                    <h1>Carlos Bautista</h1>
+                    <h1 >Carlos Bautista</h1>
                 </div>
 
                 <div className='navbar2'>
