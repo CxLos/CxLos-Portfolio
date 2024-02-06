@@ -1,11 +1,50 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+
+const AnimatedTypingText = ({ text }) => {
+  const [displayedText, setDisplayedText] = useState('');
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [cursorVisible, setCursorVisible] = useState(true);
+
+  useEffect(() => {
+      let typingInterval;
+      let cursorInterval;
+
+      const typeText = () => {
+          if (currentIndex < text.length) {
+              setDisplayedText(prevText => prevText + text[currentIndex]);
+              setCurrentIndex(prevIndex => prevIndex + 1);
+          } else {
+              clearInterval(typingInterval); // Stop typing once text is fully typed
+          }
+      };
+
+      typingInterval = setInterval(typeText, 140); // Adjust typing speed here (milliseconds)
+
+      cursorInterval = setInterval(() => {
+          setCursorVisible(prev => !prev); // Toggle cursor visibility
+      }, 100); // Adjust blinking speed here (milliseconds)
+
+      return () => {
+          clearInterval(typingInterval);
+          clearInterval(cursorInterval);
+      };
+  }, [text, currentIndex]);
+
+  return (
+      <h1 className="animated-text">
+          {displayedText}
+          <span className={cursorVisible ? "blink" : ""}>|</span> {/* Use CSS class for blinking cursor */}
+      </h1>
+  );
+};
 
 const Badge = () => {
     return(
 
         <div className="page">
           <header>
-                <h1>Badges</h1>
+                {/* <h1>Badges</h1> */}
+                <AnimatedTypingText text="Badges" />
           </header>
 
           <div className='badge-box'>

@@ -1,4 +1,34 @@
-import React from 'react';
+import React, { useState, useEffect, useRef} from 'react';
+
+const AnimatedTypingText = () => {
+    const [displayedText, setDisplayedText] = useState('');
+    const text = "Experience";
+    const [currentIndex, setCurrentIndex] = useState(0);
+
+    useEffect(() => {
+        let typingInterval;
+
+        const typeText = () => {
+            if (currentIndex < text.length) {
+                setDisplayedText(prevText => prevText + text[currentIndex]);
+                setCurrentIndex(prevIndex => prevIndex + 1);
+            } else {
+                clearInterval(typingInterval); // Stop typing once text is fully typed
+            }
+        };
+
+        typingInterval = setInterval(typeText, 120); // Adjust typing speed here (milliseconds)
+
+        return () => clearInterval(typingInterval);
+    }, [currentIndex]);
+
+    return (
+        <h1 className="animated-text">
+            {displayedText}
+            <span>|</span> {/* Cursor */}
+        </h1>
+    );
+};
 
 const Resume = () => {
     return(
@@ -6,7 +36,8 @@ const Resume = () => {
             
             <div classname=''>
                 <header>
-                    <h1>Resume</h1>
+                    {/* <h1>Resume</h1> */}
+                    <AnimatedTypingText />
                 </header>
             </div>
 

@@ -627,3 +627,7 @@ svg {
 .cursor {
   animation: blink 1s infinite;
 }
+
+.animated-text span {
+  animation: blink 1s step-end infinite;
+}

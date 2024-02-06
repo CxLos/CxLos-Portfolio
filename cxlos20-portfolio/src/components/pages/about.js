@@ -3,52 +3,31 @@ import React, { useState, useEffect, useRef} from 'react';
 
 const AnimatedTypingText = () => {
     const [displayedText, setDisplayedText] = useState('');
-    const roles = ["Data Analyst", "Web Developer"];
-    const [currentRoleIndex, setCurrentRoleIndex] = useState(0);
-    const [typingForward, setTypingForward] = useState(true);
+    const text = "Data Analyst/ Developer";
     const [currentIndex, setCurrentIndex] = useState(0);
-    const [pauseTimer, setPauseTimer] = useState(null);
-    const [cursorVisible, setCursorVisible] = useState(true);
 
     useEffect(() => {
         let typingInterval;
 
         const typeText = () => {
-            if (typingForward) {
-                if (currentIndex < roles[currentRoleIndex].length) {
-                    setDisplayedText(prevText => prevText + roles[currentRoleIndex][currentIndex]);
-                    setCurrentIndex(prevIndex => prevIndex + 1);
-                } else {
-                    setTypingForward(false);
-                    setPauseTimer(setTimeout(() => {
-                        setTypingForward(true);
-                    }, 30000)); // Pause for 3 seconds
-                }
+            if (currentIndex < text.length) {
+                setDisplayedText(prevText => prevText + text[currentIndex]);
+                setCurrentIndex(prevIndex => prevIndex + 1);
             } else {
-                if (currentIndex > 0) {
-                    setDisplayedText(prevText => prevText.slice(0, -1));
-                    setCurrentIndex(prevIndex => prevIndex - 1);
-                } else {
-                    setTypingForward(true);
-                    setCurrentRoleIndex(prevIndex => (prevIndex + 1) % roles.length);
-                    clearTimeout(pauseTimer);
-                }
+                clearInterval(typingInterval); // Stop typing once text is fully typed
             }
-            setCursorVisible(!typingForward || currentIndex < roles[currentRoleIndex].length);
         };
 
-        typingInterval = setInterval(typeText, 200);
+        typingInterval = setInterval(typeText, 110); // Adjust typing speed here (milliseconds)
 
         return () => clearInterval(typingInterval);
-    }, [currentRoleIndex, roles, typingForward, currentIndex, pauseTimer]);
+    }, [currentIndex]);
 
     return (
-        <div>
-            <h1 style={{ position: 'relative' }}>
-                {displayedText}
-                {cursorVisible && <span style={{ animation: 'blink 1s infinite' }}>|</span>}
-            </h1>
-        </div>
+        <h1 className="animated-text">
+            {displayedText}
+            <span>|</span> {/* Cursor */}
+        </h1>
     );
 };
 

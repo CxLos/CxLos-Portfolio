@@ -1,10 +1,42 @@
-import React from 'react';
+import React, { useState, useEffect, useRef} from 'react';
+
+const AnimatedTypingText = () => {
+    const [displayedText, setDisplayedText] = useState('');
+    const text = "Web Apps";
+    const [currentIndex, setCurrentIndex] = useState(0);
+
+    useEffect(() => {
+        let typingInterval;
+
+        const typeText = () => {
+            if (currentIndex < text.length) {
+                setDisplayedText(prevText => prevText + text[currentIndex]);
+                setCurrentIndex(prevIndex => prevIndex + 1);
+            } else {
+                clearInterval(typingInterval); // Stop typing once text is fully typed
+            }
+        };
+
+        typingInterval = setInterval(typeText, 120); // Adjust typing speed here (milliseconds)
+
+        return () => clearInterval(typingInterval);
+    }, [currentIndex]);
+
+    return (
+        <h1 className="animated-text">
+            {displayedText}
+            <span>|</span> {/* Cursor */}
+        </h1>
+    );
+};
+
 
 const Projects = () => {
     return(
         <div className='projects'>
             <header>
-                <h1>Projects</h1>
+                {/* <h1>Projects</h1> */}
+                <AnimatedTypingText text="Projects" />
             </header>
 
             <div className='p-border'>

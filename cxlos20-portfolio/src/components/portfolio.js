@@ -4,7 +4,7 @@ import Home from './pages/home'
 import Badge from './pages/badge'
 import About from './pages/about'
 import Data from './pages/data'
-import Projects from './pages/projects';
+import Apps from './pages/apps';
 import Resume from './pages/resume'
 import Contact from './pages/contact'
 import Footer from './pages/footer'
@@ -26,8 +26,8 @@ const Portfolio = () => {
       if (currentPage === 'Data') {
         return <Data />;
       }
-      if (currentPage === 'Projects') {
-        return <Projects />;
+      if (currentPage === 'Apps') {
+        return <Apps />;
       }
       if (currentPage === 'Resume') {
         return <Resume />;
