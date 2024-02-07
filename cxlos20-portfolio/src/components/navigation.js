@@ -21,35 +21,35 @@ function Navigation ({ currentPage, handlePageChange }) {
                                 Home
                             </a>
                         </li> */}
-                        <li className="">
+                        <li className="nav1">
                             <a href="#about" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('About')}>
                                 About
                             </a>
                         </li>
-                        <li className="">
+                        <li className="nav2">
                             <a href="#badge" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('Badge')}>
                                 Badges
                             </a>
                         </li>
-                        <li className="">
+                        <li className="nav3">
                             <a href="#capstones" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('Data')}>
                                 Capstones
                             </a>
                         </li>
-                        <li className="">
+                        <li className="nav4">
                             <a href="#apps" 
                             // className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('Apps')}>
                                 Apps
                             </a>
                         </li>
-                        <li className="">
+                        <li className="nav5">
                             <a href="#resume" 
                             // className=
                             // {currentPage === 'Resume' ? 'nav-link active' : 'nav-link'} 

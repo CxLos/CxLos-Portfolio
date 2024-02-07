@@ -24,7 +24,7 @@ const AnimatedTypingText = () => {
     }, [currentIndex]);
 
     return (
-        <h1 className="animated-text">
+        <h1 className="animated-text headline">
             {displayedText}
             <span>|</span> {/* Cursor */}
         </h1>
