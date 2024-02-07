@@ -78,7 +78,7 @@ const Data = () => {
                 </div>
             </div>
 
-            <div className='p-border'>
+            {/* <div className='p-border'>
                 <div className="projects2">
                     <div className="p-box">
                         <a href="https://lookerstudio.google.com/navigation/reporting">
@@ -113,7 +113,7 @@ const Data = () => {
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
 );
 };

@@ -42,7 +42,7 @@ const Projects = () => {
             <div className='p-border'>
                 <div className="projects2">
 
-                    <div className='projects3'>
+                   
                         <div className="p-box">
                             <a href="https://rbarbosa51.github.io/whatacrypto-crypto-game/">
                                 <div>
@@ -53,7 +53,7 @@ const Projects = () => {
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    
 
                     <div className='projects3'>
                         <div className="p-box">
