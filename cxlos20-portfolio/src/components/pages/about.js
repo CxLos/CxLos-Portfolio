@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef} from 'react';
 
 const AnimatedTypingText = () => {
     const [displayedText, setDisplayedText] = useState('');
-    const text = "Data Analyst/ Developer";
+    const text = "Data Analyst / Developer";
     const [currentIndex, setCurrentIndex] = useState(0);
 
     useEffect(() => {
@@ -36,7 +36,7 @@ const About = () => {
     return(
         <div className="page">
 
-            <header>
+            <header href='#about'>
                 {/* <h1>Data Analyst/ Developer</h1> */}
                 <AnimatedTypingText />
                 

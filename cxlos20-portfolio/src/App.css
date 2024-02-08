@@ -60,14 +60,15 @@ header{
   /* color: rgb(255, 255, 255); */
   color: rgb(154, 255, 114);
   justify-content: center;
-  margin: 40px 0px 0px 0px;
+  margin: 50px 0px 20px 0px;
   /* font-family: 'Courier New', Courier, monospace; */
 }
 
 header h1 {
-  font-size: 35px;
-  font-weight: bold;
-  font-family: 'Courier New', Courier, monospace;
+  font-size: 22px;
+  font-weight: lighter;
+  /* font-family: 'Courier New', Courier, monospace; */
+  font-family: 'Press Start 2P';
 }
 
 a {
@@ -160,14 +161,19 @@ a {
   font-size: 16px;
   /* font-weight: bold; */
   font-family: 'Courier New', Courier, monospace;
+  /* font-family: sans-serif; */
   /* border-color: rgb(255, 255, 255); */
   /* border-color: rgb(0, 49, 198); */
   /* box-shadow: 0px 0px 10px 0px rgb(255, 255, 255); */
   /* box-shadow: 10px 10px 20px 0px rgb(255, 255, 255); */
     /* background-color: rgb(196, 227, 255); */
-  line-height: 30px;
+  line-height: 2.6;
   width: 50%;
   padding: 30px;
+}
+
+.bio p {
+    line-height: 1;
 }
 
 .border {
@@ -199,9 +205,8 @@ a {
   color: rgb(255, 255, 255);
   /* font-family: 'Roboto', sans-serif; */
   font-family: 'Courier New', Courier, monospace;
-  font-weight: bold;
   /* font-weight: 100; */
-  padding: 0px 0px -20px 0px;
+  padding: 10px 0px 10px 0px;
   /* margin: -20px 0px 0px 0px; */
   /* border-bottom: 2px solid; */
   border-color: rgb(255, 255, 255);
@@ -212,7 +217,8 @@ a {
   align-items: center;
   align-content: center;
   justify-content: space-evenly;
-  
+  font-family: 'Press Start 2P';
+  padding: 0px 0px 0px 0px;
 }
 
 .navbar2 ul {
@@ -223,20 +229,24 @@ a {
   display: inline-block;
   margin: 0 40px 0 0;
 }
+.navbar2 ul li:active {
+  transform: translateY(5px);
+}
 
 .navbar2 ul li a {
   text-decoration: none;
-  font-size: 20px;
-  /* color: rgb(255, 255, 255); */
- 
-  /* border: 1.5px solid; */
+  font-size: 12px;
+  font-weight: lighter;
   border-radius: 8px;
   padding: 10px
 }
 
 .navbar2 ul li a:hover {
-  opacity: 0.7;
-  text-decoration: underline;
+  opacity: 0.9;
+  /* color: rgb(177, 177, 177); */
+  border: 1px solid;
+  /* filter: brightness(200); */
+  /* text-decoration: underline; */
 }
 
 .nav1 a{
@@ -265,11 +275,12 @@ a {
   align-items: center;
   /* color: rgb(255, 255, 255); */
   color: rgb(229, 55, 55);
-  font-size: 29px;
   text-align: center;
   /* font-family: 'Roboto', sans-serif; */
   /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-  font-family: 'Courier New', Courier, monospace;
+  /* font-family: 'Courier New', Courier, monospace; */
+  font-family: 'Press Start 2P';
+  font-weight: lighter;
   /* border-right: 2px solid; */
   padding: 0px 0px 0px 0px;
   margin: 0px 0px 0px 20px;
@@ -280,7 +291,18 @@ a {
   display: inline-block;
   /* padding: 0px 40px 0px 0px; */
   margin: 10px 0px 10px 0px;
-  font-weight: bold;
+  font-weight: lighter;
+  font-size: 38px;
+}
+
+.carlos h1:hover {
+  transform: scaleY(-1); 
+  /* opacity: 0.8; */
+}
+
+.carlos h1:active {
+  transform: translateY(5px);
+  /* transform: scaleX(-1); */
 }
 
 .contact-form {
@@ -369,7 +391,7 @@ a {
   align-content: center;
   align-items: center;
   align-self: center;
-  margin: 20px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
 }
 
@@ -379,7 +401,7 @@ a {
   align-content: center;
   align-items: center;
   align-self: center;
-  margin: 0px 0px 0px 0px;
+  margin: 10px 0px 20px 0px;
   padding: 10px 0px 10px 0px;
   /* height: 30%; */
   /* flex-direction: column; */
@@ -623,7 +645,7 @@ footer {
 .svg1 {
   height: 30px;
   width: 30px;
-  margin: 0px -90px 0px 0px;
+  margin: -5px -90px 0px 0px;
   padding: 0px 0px 0px 0px;
   color: rgb(255, 255, 255);
   filter: brightness(100) invert(1); 

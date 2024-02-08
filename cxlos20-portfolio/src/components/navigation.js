@@ -6,10 +6,12 @@ function Navigation ({ currentPage, handlePageChange }) {
         <div className="">
 
             <div className='navbar1'>
-            
+                <a href='#about' onClick={() => handlePageChange('About')}>
                 <div className='carlos'>
                     <h1 >Carlos Bautista</h1>
                 </div>
+                </a>
+               
 
                 <div className='navbar2'>
                     
