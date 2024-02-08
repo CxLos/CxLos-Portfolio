@@ -66,7 +66,7 @@ const Badge = () => {
             </div>
 
             <div className='badge'>
-              <a href='https://www.credly.com/badges/61842971-ed83-498b-bf71-e0af10ad4648/public_url'>
+              <a href='https://www.credly.com/earner/earned/badge/5822e450-25ee-404a-81a0-8dcd02f239bb'>
 
                 {/* <div className='badge-title'>
                   <header className='badge-header'>
