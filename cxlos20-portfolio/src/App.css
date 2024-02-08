@@ -711,3 +711,10 @@ footer {
 .animated-text span {
   animation: blink 1s step-end infinite;
 }
+
+@font-face {
+  font-family: 'Press Start 2P';
+  src: url('../fonts/press-start-2p.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
