@@ -50,14 +50,15 @@ const Badge = () => {
           <div className='badge-box'>
 
             <div className='badge'>
-              <a href='https://www.credly.com/badges/61842971-ed83-498b-bf71-e0af10ad4648/public_url'>
+              <a href='https://www.credly.com/earner/earned/badge/f35d2184-e6d3-4329-b2d6-18019acb3cac'>
+                <div className='badge-logo3'>
+                  <img className='ibm3' alt='Data Analysis with Python IBM Badge' src={require(`./screenshots/IBM3.png`)}/>
+                </div>
+              </a>
+            </div>
 
-                {/* <div className='badge-title'>
-                  <header className='badge-header'>
-                        <h1>Data Analysis with Python</h1>
-                  </header>
-                </div> */}
-                
+            <div className='badge'>
+              <a href='https://www.credly.com/badges/61842971-ed83-498b-bf71-e0af10ad4648/public_url'>
                 <div className='badge-logo1'>
                   <img className='ibm' alt='Data Analysis with Python IBM Badge' src={require(`./screenshots/IBM1.png`)}/>
                 </div>
@@ -67,42 +68,13 @@ const Badge = () => {
 
             <div className='badge'>
               <a href='https://www.credly.com/earner/earned/badge/5822e450-25ee-404a-81a0-8dcd02f239bb'>
-
-                {/* <div className='badge-title'>
-                  <header className='badge-header'>
-                        <h1>Data Visualization with Python</h1>
-                  </header>
-                </div> */}
-                
                 <div className='badge-logo2'>
-                  <img className='ibm' alt='Data Analysis with Python IBM Badge' src={require(`./screenshots/IBM2.png`)}/>
+                  <img className='ibm2' alt='Data Analysis with Python IBM Badge' src={require(`./screenshots/IBM2.png`)}/>
                 </div>
 
               </a>
             </div>
-
-            {/* <div className='badge'>
-              <a href='https://www.credly.com/badges/61842971-ed83-498b-bf71-e0af10ad4648/public_url'>
-
-                <div className='badge-title'>
-                  <header className='badge-header'>
-                        <h1>Data Visualization with Python</h1>
-                  </header>
-                </div>
-                
-                <div className='badge-logo'>
-                  <img className='ibm' alt='Data Analysis with Python IBM Badge' src={require(`./screenshots/IBM1.png`)}/>
-                </div>
-
-              </a>
-            </div> */}
-
           </div>
-           {/* <div>
-            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="61842971-ed83-498b-bf71-e0af10ad4648" data-share-badge-host="https://www.credly.com">
-            </div>
-            <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-            </div> */}
         </div>
     );
 };

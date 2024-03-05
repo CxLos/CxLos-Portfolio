@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef} from 'react';
+import React, { useState, useEffect} from 'react';
 
 
 const AnimatedTypingText = () => {
@@ -53,7 +53,7 @@ const About = () => {
 
                 <div className='border'>
                     <div>
-                        <p className='bio'>
+                        <p className='bio '>
                             Hello and Welcome to my portfolio! My name is Carlos Bautista. I am a Data Analyst and Web Developer. I am a graduate from Montclair State University with a B.S. in Business Administration with a concentration in International Business. I also have a Full Stack Web Development certificate from The University of Texas Austin, and Currently working on the IBM Data Analyst Professional Certificate. I am originally from New Jersey and moved to Austin in the summer of 2021. Since moving here, I developed a strong interest in coding, particularly data science, so I decided it was time to further my education and learn more about the tech industry.  
                         </p>
                     </div>
@@ -67,3 +67,4 @@ const About = () => {
 };
 
 export default About;
+
