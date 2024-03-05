@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/CxLos-Portfolio/static/css/main.86d90fe4.css",
-    "main.js": "/CxLos-Portfolio/static/js/main.b489c246.js",
+    "main.css": "/CxLos-Portfolio/static/css/main.643812c1.css",
+    "main.js": "/CxLos-Portfolio/static/js/main.24b08af6.js",
     "static/js/787.d3fa3b86.chunk.js": "/CxLos-Portfolio/static/js/787.d3fa3b86.chunk.js",
     "static/media/Screenshot-151238.png": "/CxLos-Portfolio/static/media/Screenshot-151238.90d02a3f6f61cabc9905.png",
     "static/media/Screenshot-131402.png": "/CxLos-Portfolio/static/media/Screenshot-131402.ac135eb611a795f7ac29.png",
     "static/media/IBM2.png": "/CxLos-Portfolio/static/media/IBM2.2369b9d89fa5a3023596.png",
     "static/media/Screenshot-185839.png": "/CxLos-Portfolio/static/media/Screenshot-185839.0863a953eaf69c775eda.png",
     "static/media/character-form.png": "/CxLos-Portfolio/static/media/character-form.bc035b7c25d20085e5ea.png",
+    "static/media/IBM3.png": "/CxLos-Portfolio/static/media/IBM3.d802ac124599f37e6204.png",
     "static/media/IBM1.png": "/CxLos-Portfolio/static/media/IBM1.02e5ff783eb55c4946e3.png",
     "static/media/Screenshot-135144.png": "/CxLos-Portfolio/static/media/Screenshot-135144.5596700b93adbad8bd3d.png",
     "static/media/PressStart2P-Regular.ttf": "/CxLos-Portfolio/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
@@ -16,12 +17,12 @@
     "static/media/Screenshot-191817.png": "/CxLos-Portfolio/static/media/Screenshot-191817.2038376ef58ffeb508ca.png",
     "static/media/Screenshot-192357.png": "/CxLos-Portfolio/static/media/Screenshot-192357.1d0cab11acdb3af2222e.png",
     "index.html": "/CxLos-Portfolio/index.html",
-    "main.86d90fe4.css.map": "/CxLos-Portfolio/static/css/main.86d90fe4.css.map",
-    "main.b489c246.js.map": "/CxLos-Portfolio/static/js/main.b489c246.js.map",
+    "main.643812c1.css.map": "/CxLos-Portfolio/static/css/main.643812c1.css.map",
+    "main.24b08af6.js.map": "/CxLos-Portfolio/static/js/main.24b08af6.js.map",
     "787.d3fa3b86.chunk.js.map": "/CxLos-Portfolio/static/js/787.d3fa3b86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86d90fe4.css",
-    "static/js/main.b489c246.js"
+    "static/css/main.643812c1.css",
+    "static/js/main.24b08af6.js"
   ]
 }
