@@ -41,7 +41,7 @@ function Navigation ({ currentPage, handlePageChange }) {
                             <a href="#capstones" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('Data')}>
-                                Capstones
+                                Data
                             </a>
                         </li>
                         <li className="nav4">

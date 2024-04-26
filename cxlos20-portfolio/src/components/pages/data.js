@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef} from 'react';
 
 const AnimatedTypingText = () => {
     const [displayedText, setDisplayedText] = useState('');
-    const text = "Capstone Projects Coming Soon!";
+    const text = "Projects Coming Soon!";
     const [currentIndex, setCurrentIndex] = useState(0);
 
     useEffect(() => {
@@ -41,6 +41,7 @@ const Data = () => {
 
             <div className='p-border'>
                 <div className="projects2">
+
                     <div className="p-box">
                         <a href="https://lookerstudio.google.com/navigation/reporting">
                             <div>
@@ -52,9 +53,8 @@ const Data = () => {
                         </a>
                     </div>
 
-                    <div className="p-box">
+                    {/* <div className="p-box">
                         <a href="https://lookerstudio.google.com/navigation/reporting">
-                        {/* <a href="https://characterize-this.herokuapp.com/"> */}
                             <div>
                                 <h2 className='ptitle'>Project 2</h2>
                             </div>
@@ -62,11 +62,10 @@ const Data = () => {
                             <img className='img2' alt='' src={require(`./screenshots/Screenshot-135144.png`)}/>
                             </div>
                         </a>
-                    </div>
+                    </div> */}
 
-                    <div className="p-box">
+                    {/* <div className="p-box">
                         <a href="https://lookerstudio.google.com/navigation/reporting">
-                        {/* <a href="https://birdbrain.herokuapp.com/"> */}
                             <div>
                                 <h2 className='ptitle'>Project 3</h2>
                             </div>
@@ -74,7 +73,7 @@ const Data = () => {
                             <img className='img2' alt='' src={require(`./screenshots/Screenshot-135144.png`)}/>
                             </div>
                         </a>
-                    </div>
+                    </div> */}
                 </div>
             </div>
 
