@@ -54,7 +54,7 @@ const About = () => {
                 <div className='border'>
                     <div>
                         <p className='bio '>
-                        Hello and welcome to my portfolio! My name is Carlos Bautista, and I'm a Data Analyst and Web Developer. I graduated from Montclair State University with a Bachelor of Science in Business Administration, focusing on International Business. Additionally, I have a Full Stack Web Development certificate from The University of Texas Austin and the IBM Data Analyst Professional Certificate.
+                        Hello and welcome to my portfolio! My name is Carlos Bautista, and I'm a Data Analyst and Web Developer. I graduated from Montclair State University with a B.S. in Business Administration with a concentration in International Business. Additionally, I have obtained a Full Stack Web Development certificate from The University of Texas Austin and the IBM Data Analyst Professional Certificate.
 
                         Originally from New Jersey, I made the move to Austin in 2021. I'm passionate about leveraging data analytics and web development skills to create meaningful insights and user-friendly experiences. Explore my portfolio to see examples of my work and projects!
                         </p>
