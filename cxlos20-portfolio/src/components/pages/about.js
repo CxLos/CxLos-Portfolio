@@ -3,7 +3,7 @@ import React, { useState, useEffect} from 'react';
 
 const AnimatedTypingText = () => {
     const [displayedText, setDisplayedText] = useState('');
-    const text = "Data Analyst / Developer";
+    const text = "Data Analyst";
     const [currentIndex, setCurrentIndex] = useState(0);
 
     useEffect(() => {
@@ -48,7 +48,7 @@ const About = () => {
             <div className='about'>
 
                 <div className='about1'>
-                    <img className='me' alt='headshot' src={require(`./screenshots/headshot2.jpg`)}/>
+                    <img className='me' alt='headshot' src={require(`./screenshots/headshot4.JPG`)}/>
                 </div>
 
                 <div className='border'>
