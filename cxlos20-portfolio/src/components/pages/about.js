@@ -48,7 +48,7 @@ const About = () => {
             <div className='about'>
 
                 <div className='about1'>
-                    <img className='me' alt='headshot' src={require(`./screenshots/Screenshot-131402.png`)}/>
+                    <img className='me' alt='headshot' src={require(`./screenshots/headshot2.jpg`)}/>
                 </div>
 
                 <div className='border'>
