@@ -706,10 +706,19 @@ footer {
 .svg2 {
   height: 30px;
   width: 30px;
-  margin: 0px 0px 0px 00px;
+  margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
   color: rgb(255, 255, 255);
   filter: brightness(100) invert(1); 
+}
+
+.svg3 {
+  height: 30px;
+  width: 30px;
+  margin: 0px 0px 0px 00px;
+  padding: 0px 0px 0px 0px;
+  /* color: rgb(255, 255, 255); */
+  filter: brightness(10) invert(1); 
 }
 
 .links a:hover {

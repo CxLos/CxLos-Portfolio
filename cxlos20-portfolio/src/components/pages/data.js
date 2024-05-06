@@ -43,7 +43,7 @@ const Data = () => {
                 <div className="projects2">
 
                     <div className="p-box">
-                        <a href="https://lookerstudio.google.com/navigation/reporting">
+                        <a href="https://www.kaggle.com/cxlosb">
                             <div>
                                 <h2 className='ptitle'>Project 1</h2> 
                             </div>
