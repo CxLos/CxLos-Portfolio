@@ -1,47 +1,10 @@
 # CxLos-Portfolio
 
-
-
-## Table of Contents 
-	
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Badges](#badges)
-- [Features](#features)
-- [Tests](#tests)
-
-
-## Installation
-
-N/A
-
 ## Usage
 
 [Portfolio](https://cxlos.github.io/CxLos-Portfolio/)
 
 ![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-1232445.png)
-
-## Badges
-
-N/A
-
-## Features
-
-N/A
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
-
-## Credits
-
-N/A
 
 ## License
 
