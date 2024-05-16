@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef} from 'react';
 
 const AnimatedTypingText = () => {
     const [displayedText, setDisplayedText] = useState('');
-    const text = "Projects Coming Soon!";
+    const text = "Statistical Analyses";
     const [currentIndex, setCurrentIndex] = useState(0);
 
     useEffect(() => {
