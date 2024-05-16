@@ -43,12 +43,12 @@ const Data = () => {
                 <div className="projects2">
 
                     <div className="p-box">
-                        <a href="https://www.kaggle.com/cxlosb">
+                        <a href="https://us-immigration-statistics-b0f238985cfe.herokuapp.com/">
                             <div>
-                                <h2 className='ptitle'>Project 1</h2> 
+                                <h2 className='ptitle'>US Immigration Statistics</h2> 
                             </div>
                             <div className='img2'>
-                                <img className='img2' alt='' src={require(`./screenshots/Screenshot-135144.png`)}/>
+                                <img className='img2' alt='' src={require(`./screenshots/Screenshot-223715.png`)}/>
                             </div>
                         </a>
                     </div>

@@ -44,13 +44,13 @@ function Navigation ({ currentPage, handlePageChange }) {
                                 Data
                             </a>
                         </li>
-                        <li className="nav4">
+                        {/* <li className="nav4">
                             <a href="#apps" 
                             // className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('Apps')}>
                                 Apps
                             </a>
-                        </li>
+                        </li> */}
                         {/* <li className="nav5">
                             <a href="#resume" 
                             // className=
