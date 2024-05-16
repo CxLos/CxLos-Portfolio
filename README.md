@@ -1,8 +1,6 @@
 # CxLos-Portfolio
 
-## Description
 
-My motivation in building this application was to create an appealing portfolio that reflects my skills and education, so that I can quickly get a new job working in the tech field. I built this project because having an attention-grabbing portfolio that showcases your skills and achievements is crucial for future employers to see. This portfolio aims to solve the problem of not having an organized location to showcase all my work. Building this application, I learned a lot about React. I learned the syntax and folder structure and how it differs from vanilla JavaScript.
 
 ## Table of Contents 
 	
@@ -23,7 +21,7 @@ N/A
 
 [Portfolio](https://cxlos.github.io/CxLos-Portfolio/)
 
-![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-180706.png)
+![Preview](./cxlos20-portfolio/src/components/pages/screenshots/Screenshot-1232445.png)
 
 ## Badges
 
