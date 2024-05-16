@@ -42,35 +42,35 @@ const Data = () => {
             <div className='p-border'>
                 <div className="projects2">
 
-                    <div className="p-box">
+                    <div className="p-box2">
                         <a href="https://us-immigration-statistics-b0f238985cfe.herokuapp.com/">
                             <div>
                                 <h2 className='ptitle'>US Immigration Statistics</h2> 
                             </div>
-                            <div className='img2'>
-                                <img className='img2' alt='' src={require(`./screenshots/Screenshot-223715.png`)}/>
+                            <div className=''>
+                                <img className='img3' alt='' src={require(`./screenshots/Screenshot-223715.png`)}/>
                             </div>
                         </a>
                     </div>
 
-                    {/* <div className="p-box">
+                    {/* <div className="p-box2">
                         <a href="https://lookerstudio.google.com/navigation/reporting">
                             <div>
                                 <h2 className='ptitle'>Project 2</h2>
                             </div>
-                            <div className='img2'>
-                            <img className='img2' alt='' src={require(`./screenshots/Screenshot-135144.png`)}/>
+                            <div className=''>
+                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-223715.png`)}/>
                             </div>
                         </a>
                     </div> */}
 
-                    {/* <div className="p-box">
+                    {/* <div className="p-box2">
                         <a href="https://lookerstudio.google.com/navigation/reporting">
                             <div>
                                 <h2 className='ptitle'>Project 3</h2>
                             </div>
-                            <div className='img2'>
-                            <img className='img2' alt='' src={require(`./screenshots/Screenshot-135144.png`)}/>
+                            <div className=''>
+                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-223715.png`)}/>
                             </div>
                         </a>
                     </div> */}

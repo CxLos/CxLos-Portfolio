@@ -27,21 +27,21 @@ function Navigation ({ currentPage, handlePageChange }) {
                             <a href="#about" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('About')}>
-                                About
+                                Home
                             </a>
                         </li>
                         <li className="nav2">
-                            <a href="#badge" 
+                            <a href="#data" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
-                            onClick={() => handlePageChange('Badge')}>
-                                Badges
+                            onClick={() => handlePageChange('Data')}>
+                                Data Analyses
                             </a>
                         </li>
                         <li className="nav3">
-                            <a href="#capstones" 
+                            <a href="#badges" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
-                            onClick={() => handlePageChange('Data')}>
-                                Data
+                            onClick={() => handlePageChange('Badge')}>
+                                Badges
                             </a>
                         </li>
                         {/* <li className="nav4">
