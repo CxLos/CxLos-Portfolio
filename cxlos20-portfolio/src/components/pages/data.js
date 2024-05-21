@@ -53,16 +53,16 @@ const Data = () => {
                         </a>
                     </div>
 
-                    {/* <div className="p-box2">
-                        <a href="https://lookerstudio.google.com/navigation/reporting">
+                    <div className="p-box2">
+                        <a href="https://flight-delay-statistics-b070eee730f6.herokuapp.com/">
                             <div>
-                                <h2 className='ptitle'>Project 2</h2>
+                                <h2 className='ptitle'>Flight Delay Statistics</h2>
                             </div>
                             <div className=''>
-                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-223715.png`)}/>
+                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-1005.png`)}/>
                             </div>
                         </a>
-                    </div> */}
+                    </div>
 
                     {/* <div className="p-box2">
                         <a href="https://lookerstudio.google.com/navigation/reporting">

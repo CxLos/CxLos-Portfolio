@@ -11,7 +11,7 @@ import Footer from './pages/footer'
 
 const Portfolio = () => {
 
-    const [currentPage, setCurrentPage] = useState('About');
+    const [currentPage, setCurrentPage] = useState('Data');
     
     const renderPage = () => {
       if (currentPage === 'Home') {
