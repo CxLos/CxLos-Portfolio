@@ -24,14 +24,14 @@ function Navigation ({ currentPage, handlePageChange }) {
                             </a>
                         </li> */}
                         <li className="nav1">
-                            <a href="#about" 
+                            <a href="#portfolio" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('Data')}>
                                 Portfolio
                             </a>
                         </li>
                         <li className="nav2">
-                            <a href="#data" 
+                            <a href="#about" 
                             // lassName={currentPage === 'About' ? 'nav-link active' : 'nav-link'} 
                             onClick={() => handlePageChange('About')}>
                                 About
