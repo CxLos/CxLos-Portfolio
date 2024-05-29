@@ -327,7 +327,7 @@ a {
   justify-content: center;
   flex-direction: row;
   padding: 0px 0px 0px 0px;
-  margin: -30px 0px 0px 0px;
+  margin: -20px 0px 0px 0px;
 }
 
 .projects2 div:active {
@@ -354,7 +354,7 @@ a {
   border-radius: 4px;
   border-color: rgb(202, 202, 202); 
   width: 60%;
-  margin: 80px 0px 30px 0px;
+  margin: 80px 200px 30px 0px;
 }
 
 .ptitle {
@@ -378,6 +378,7 @@ a {
   background-color: rgb(81, 86, 98);
   justify-content: center;
   width: 12vw;
+  height: auto;
   text-align: center;
   /* padding: 0px 20px 0px 20px; */
   margin: 0px 80px 0px 80px;
@@ -395,7 +396,7 @@ a {
   border-color: rgb(166, 166, 166);
   background-color: rgb(81, 86, 98);
   justify-content: center;
-  width: auto;
+  width: 18vw;
   height: auto;
   text-align: center;
   /* padding: 0px 20px 0px 20px; */
@@ -777,8 +778,8 @@ footer {
 .img3 {
   max-width: 100%;
   max-height: 100%;
-  width: auto;
-  height:auto;
+  width: 100vw;
+  height:20vh;
   margin: -15px 0px -3px 0px;
   border-radius: 10px;
 }

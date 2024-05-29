@@ -48,7 +48,7 @@ const Data = () => {
                                 <h2 className='ptitle'>US Immigration Statistics</h2> 
                             </div>
                             <div className=''>
-                                <img className='img3' alt='' src={require(`./screenshots/Screenshot-223715.png`)}/>
+                                <img className='img3' alt='' src={require(`./screenshots/Screenshot-0828.png`)}/>
                             </div>
                         </a>
                     </div>
@@ -59,21 +59,21 @@ const Data = () => {
                                 <h2 className='ptitle'>Flight Delay Statistics</h2>
                             </div>
                             <div className=''>
-                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-1005.png`)}/>
+                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-1057.png`)}/>
                             </div>
                         </a>
                     </div>
 
-                    {/* <div className="p-box2">
-                        <a href="https://lookerstudio.google.com/navigation/reporting">
+                    <div className="p-box2">
+                        <a href="https://cxlos-pokemon-stats-45bbc3565284.herokuapp.com/">
                             <div>
-                                <h2 className='ptitle'>Project 3</h2>
+                                <h2 className='ptitle'>Pokemon Statistics</h2>
                             </div>
                             <div className=''>
-                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-223715.png`)}/>
+                            <img className='img3' alt='' src={require(`./screenshots/pokemon-vector.jpg`)}/>
                             </div>
                         </a>
-                    </div> */}
+                    </div>
                 </div>
             </div>
 
