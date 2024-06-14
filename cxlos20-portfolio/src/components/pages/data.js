@@ -43,7 +43,7 @@ const Data = () => {
                 <div className="projects2">
 
                     <div className="p-box2">
-                        <a href="https://us-immigration-statistics-b0f238985cfe.herokuapp.com/">
+                        <a href="https://us-immigration-statistics.onrender.com/">
                             <div>
                                 <h2 className='ptitle'>US Immigration Statistics</h2> 
                             </div>
