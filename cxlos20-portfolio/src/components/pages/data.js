@@ -65,7 +65,7 @@ const Data = () => {
                     </div>
 
                     <div className="p-box2">
-                        <a href="https://cxlos-pokemon-stats-45bbc3565284.herokuapp.com/">
+                        <a href="https://pokemon-stats.onrender.com/">
                             <div>
                                 <h2 className='ptitle'>Pokemon Statistics</h2>
                             </div>
