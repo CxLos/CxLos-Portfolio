@@ -75,6 +75,34 @@ const Badge = () => {
               </a>
             </div>
           </div>
+
+          <div className='badge-box'>
+
+            {/* <div className='badge'>
+              <a href='https://www.credly.com/earner/earned/badge/f35d2184-e6d3-4329-b2d6-18019acb3cac'>
+                <div className='badge-logo3'>
+                  <img className='ibm3' alt='Data Analysis with Python IBM Badge' src={require(`./screenshots/IBM3.png`)}/>
+                </div>
+              </a>
+            </div> */}
+
+            <div className='badge'>
+              <a href='https://www.credly.com/earner/earned/badge/f35d2184-e6d3-4329-b2d6-18019acb3cac'>
+                <div className='badge-logo4'>
+                  <img className='ibm4' alt='Data Analysis with Python IBM Badge' src={require(`./screenshots/IBM4.png`)}/>
+                </div>
+              </a>
+            </div>
+
+            {/* <div className='badge'>
+              <a href='https://www.credly.com/earner/earned/badge/f35d2184-e6d3-4329-b2d6-18019acb3cac'>
+                <div className='badge-logo4'>
+                  <img className='ibm5' alt='Data Analysis with Python IBM Badge' src={require(`./screenshots/IBM4.png`)}/>
+                </div>
+              </a>
+            </div> */}
+
+          </div>
         </div>
     );
 };
