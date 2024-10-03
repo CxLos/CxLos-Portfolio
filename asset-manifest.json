@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/CxLos-Portfolio/static/css/main.f8f8fe0d.css",
-    "main.js": "/CxLos-Portfolio/static/js/main.35328438.js",
+    "main.css": "/CxLos-Portfolio/static/css/main.9f27794b.css",
+    "main.js": "/CxLos-Portfolio/static/js/main.fa684b93.js",
     "static/js/787.d3fa3b86.chunk.js": "/CxLos-Portfolio/static/js/787.d3fa3b86.chunk.js",
     "static/media/headshot4.JPG": "/CxLos-Portfolio/static/media/headshot4.55c4848bdf63421be834.JPG",
     "static/media/Screenshot-151238.png": "/CxLos-Portfolio/static/media/Screenshot-151238.90d02a3f6f61cabc9905.png",
+    "static/media/IBM4.png": "/CxLos-Portfolio/static/media/IBM4.11c4f7b5fb537712b527.png",
     "static/media/IBM2.png": "/CxLos-Portfolio/static/media/IBM2.2369b9d89fa5a3023596.png",
     "static/media/pokemon-vector.jpg": "/CxLos-Portfolio/static/media/pokemon-vector.f710d11b417e4c11e35b.jpg",
     "static/media/Screenshot-185839.png": "/CxLos-Portfolio/static/media/Screenshot-185839.0863a953eaf69c775eda.png",
@@ -16,12 +17,12 @@
     "static/media/Screenshot-0828.png": "/CxLos-Portfolio/static/media/Screenshot-0828.291a7c0b723e492630ec.png",
     "static/media/Screenshot-191817.png": "/CxLos-Portfolio/static/media/Screenshot-191817.2038376ef58ffeb508ca.png",
     "index.html": "/CxLos-Portfolio/index.html",
-    "main.f8f8fe0d.css.map": "/CxLos-Portfolio/static/css/main.f8f8fe0d.css.map",
-    "main.35328438.js.map": "/CxLos-Portfolio/static/js/main.35328438.js.map",
+    "main.9f27794b.css.map": "/CxLos-Portfolio/static/css/main.9f27794b.css.map",
+    "main.fa684b93.js.map": "/CxLos-Portfolio/static/js/main.fa684b93.js.map",
     "787.d3fa3b86.chunk.js.map": "/CxLos-Portfolio/static/js/787.d3fa3b86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8f8fe0d.css",
-    "static/js/main.35328438.js"
+    "static/css/main.9f27794b.css",
+    "static/js/main.fa684b93.js"
   ]
 }
