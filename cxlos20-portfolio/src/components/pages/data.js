@@ -54,9 +54,9 @@ const Data = () => {
                     </div>
 
                     <div className="p-box2">
-                        <a href="https://flight-delay-statistics-b070eee730f6.herokuapp.com/">
+                        <a href="https://nav-nov-24.onrender.com/">
                             <div>
-                                <h2 className='ptitle'>Flight Delay Statistics</h2>
+                                <h2 className='ptitle'>BMHC Monthly Report</h2>
                             </div>
                             <div className=''>
                             <img className='img3' alt='' src={require(`./screenshots/Screenshot-1057.png`)}/>
