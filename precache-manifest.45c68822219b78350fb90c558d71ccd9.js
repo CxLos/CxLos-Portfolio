@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f08ab8bc7c3407eef2fae1f6793cc6e3",
+    "revision": "f85159d11c4a3aa06a6272b29320a112",
     "url": "/CxLos-Portfolio/index.html"
   },
   {
-    "revision": "f7313165156e7b58508c",
+    "revision": "25e4ebfe9e0097ad3276",
     "url": "/CxLos-Portfolio/static/css/main.dd61e4f8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CxLos-Portfolio/static/js/3.69ba5426.chunk.js"
   },
   {
-    "revision": "f7313165156e7b58508c",
-    "url": "/CxLos-Portfolio/static/js/main.dce3f4f1.chunk.js"
+    "revision": "25e4ebfe9e0097ad3276",
+    "url": "/CxLos-Portfolio/static/js/main.743b7a90.chunk.js"
   },
   {
     "revision": "4605ab13f3d55c09a63e",
@@ -48,10 +48,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CxLos-Portfolio/static/media/Screenshot-0828.b3ce22d5.png"
   },
   {
-    "revision": "2f277227614a394337d016ffe0ff5cd7",
-    "url": "/CxLos-Portfolio/static/media/Screenshot-1057.2f277227.png"
-  },
-  {
     "revision": "4d45bb0eb85c805c5e70526c91cfe578",
     "url": "/CxLos-Portfolio/static/media/Screenshot-151238.4d45bb0e.png"
   },
@@ -62,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "44f7dc5339e3c6e3431fe983d7abb6a4",
     "url": "/CxLos-Portfolio/static/media/Screenshot-191817.44f7dc53.png"
+  },
+  {
+    "revision": "8581dd84b126a9f19a61dca4e68a5e81",
+    "url": "/CxLos-Portfolio/static/media/Screenshot-211417.8581dd84.png"
   },
   {
     "revision": "fd855e79847269c08e92258d61c60649",

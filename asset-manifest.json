@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CxLos-Portfolio/static/css/main.dd61e4f8.chunk.css",
-    "main.js": "/CxLos-Portfolio/static/js/main.dce3f4f1.chunk.js",
-    "main.js.map": "/CxLos-Portfolio/static/js/main.dce3f4f1.chunk.js.map",
+    "main.js": "/CxLos-Portfolio/static/js/main.743b7a90.chunk.js",
+    "main.js.map": "/CxLos-Portfolio/static/js/main.743b7a90.chunk.js.map",
     "runtime~main.js": "/CxLos-Portfolio/static/js/runtime~main.b3228ac6.js",
     "runtime~main.js.map": "/CxLos-Portfolio/static/js/runtime~main.b3228ac6.js.map",
     "static/js/2.cc71e090.chunk.js": "/CxLos-Portfolio/static/js/2.cc71e090.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.69ba5426.chunk.js": "/CxLos-Portfolio/static/js/3.69ba5426.chunk.js",
     "static/js/3.69ba5426.chunk.js.map": "/CxLos-Portfolio/static/js/3.69ba5426.chunk.js.map",
     "index.html": "/CxLos-Portfolio/index.html",
-    "precache-manifest.849e01c3dee54281b4e29eeddc2c600c.js": "/CxLos-Portfolio/precache-manifest.849e01c3dee54281b4e29eeddc2c600c.js",
+    "precache-manifest.45c68822219b78350fb90c558d71ccd9.js": "/CxLos-Portfolio/precache-manifest.45c68822219b78350fb90c558d71ccd9.js",
     "service-worker.js": "/CxLos-Portfolio/service-worker.js",
     "static/css/main.dd61e4f8.chunk.css.map": "/CxLos-Portfolio/static/css/main.dd61e4f8.chunk.css.map",
     "static/media/IBM1.png": "/CxLos-Portfolio/static/media/IBM1.cbac98f2.png",
@@ -19,10 +19,10 @@
     "static/media/IBM4.png": "/CxLos-Portfolio/static/media/IBM4.247a9752.png",
     "static/media/App.css": "/CxLos-Portfolio/static/media/PressStart2P-Regular.f98cd910.ttf",
     "static/media/Screenshot-0828.png": "/CxLos-Portfolio/static/media/Screenshot-0828.b3ce22d5.png",
-    "static/media/Screenshot-1057.png": "/CxLos-Portfolio/static/media/Screenshot-1057.2f277227.png",
     "static/media/Screenshot-151238.png": "/CxLos-Portfolio/static/media/Screenshot-151238.4d45bb0e.png",
     "static/media/Screenshot-185839.png": "/CxLos-Portfolio/static/media/Screenshot-185839.41a92897.png",
     "static/media/Screenshot-191817.png": "/CxLos-Portfolio/static/media/Screenshot-191817.44f7dc53.png",
+    "static/media/Screenshot-211417.png": "/CxLos-Portfolio/static/media/Screenshot-211417.8581dd84.png",
     "static/media/headshot4.JPG": "/CxLos-Portfolio/static/media/headshot4.fd855e79.JPG",
     "static/media/pokemon-vector.jpg": "/CxLos-Portfolio/static/media/pokemon-vector.e81034e6.jpg",
     "static/media/resume.png": "/CxLos-Portfolio/static/media/resume.b88f785b.png"
