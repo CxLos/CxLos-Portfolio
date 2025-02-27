@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CxLos-Portfolio/static/css/main.dd61e4f8.chunk.css",
-    "main.js": "/CxLos-Portfolio/static/js/main.743b7a90.chunk.js",
-    "main.js.map": "/CxLos-Portfolio/static/js/main.743b7a90.chunk.js.map",
+    "main.js": "/CxLos-Portfolio/static/js/main.d9117b14.chunk.js",
+    "main.js.map": "/CxLos-Portfolio/static/js/main.d9117b14.chunk.js.map",
     "runtime~main.js": "/CxLos-Portfolio/static/js/runtime~main.b3228ac6.js",
     "runtime~main.js.map": "/CxLos-Portfolio/static/js/runtime~main.b3228ac6.js.map",
     "static/js/2.cc71e090.chunk.js": "/CxLos-Portfolio/static/js/2.cc71e090.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.69ba5426.chunk.js": "/CxLos-Portfolio/static/js/3.69ba5426.chunk.js",
     "static/js/3.69ba5426.chunk.js.map": "/CxLos-Portfolio/static/js/3.69ba5426.chunk.js.map",
     "index.html": "/CxLos-Portfolio/index.html",
-    "precache-manifest.45c68822219b78350fb90c558d71ccd9.js": "/CxLos-Portfolio/precache-manifest.45c68822219b78350fb90c558d71ccd9.js",
+    "precache-manifest.28f57b3f08a180435fe273a52f65d8af.js": "/CxLos-Portfolio/precache-manifest.28f57b3f08a180435fe273a52f65d8af.js",
     "service-worker.js": "/CxLos-Portfolio/service-worker.js",
     "static/css/main.dd61e4f8.chunk.css.map": "/CxLos-Portfolio/static/css/main.dd61e4f8.chunk.css.map",
     "static/media/IBM1.png": "/CxLos-Portfolio/static/media/IBM1.cbac98f2.png",
