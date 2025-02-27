@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
 // import react from 'react';
+import React from 'react';
 import './App.css';
 import Portfolio from './components/portfolio';
 
@@ -27,3 +28,8 @@ const App = () => <Portfolio/>
 // }
 
 export default App;
+
+// Authorize SSH key:
+
+// $ eval "$(ssh-agent -s)"
+// ssh-add ~/.ssh/id_ed25519
