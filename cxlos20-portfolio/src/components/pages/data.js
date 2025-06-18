@@ -43,8 +43,8 @@ const Data = () => {
                 <div className="projects2">
 
                     <div className="p-box2">
+                        <a href="https://us-immigration-statistics-b0f238985cfe.herokuapp.com/">
                         {/* <a href="https://us-immigration-statistics.onrender.com/"> */}
-                        <a href="https://us-immigration-statistics.onrender.com/">
                             <div>
                                 <h2 className='ptitle'>US Immigration Statistics</h2> 
                             </div>
@@ -55,13 +55,13 @@ const Data = () => {
                     </div>
 
                     <div className="p-box2">
-                        <a href="https://nav-jan-2025-cf5261247926.herokuapp.com/">
+                        <a href="https://nav-may-2025-cbfb776ba604.herokuapp.com/">
                         {/* <a href="https://nav-jan-2025-cf5261247926.herokuapp.com/"> */}
                             <div>
                                 <h2 className='ptitle'>BMHC Monthly Report</h2>
                             </div>
                             <div className=''>
-                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-1057.png`)}/>
+                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-163424.png`)}/>
                             </div>
                         </a>
                     </div>

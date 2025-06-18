@@ -52,12 +52,16 @@ const About = () => {
                 </div>
 
                 <div className='border'>
-                    <div>
-                        <p className='bio '>
-                        Hello and welcome to my portfolio!
-                        Please feel free to explore my website to see examples of my work and projects!
-                        </p>
-                    </div>
+                 <div>
+                    <p className='bio'>
+                        Hello and welcome to my portfolio!<br /><br />
+                        My name is Carlos Bautista, and I hold a B.S. in Business Administration from Montclair State University. Originally from New Jersey, I moved to Austin in 2021—an experience that sparked my interest in the tech world and ultimately led me to pursue a career in data science.<br /><br />
+                        I began my journey by enrolling in the Coding Bootcamp Certificate Program at UT Austin, where I learned the fundamentals of web development. During the program, I gained hands-on experience working on both the front end and back end, using technologies such as JavaScript, React, SQL, HTML, and CSS.<br /><br />
+                        To build on this foundation, I went on to complete the IBM Data Analyst Professional Certificate Program. This course deepened my understanding of data science principles and sharpened my skills in SQL and Python, along with libraries like NumPy, pandas, and matplotlib.<br /><br />
+                        I invite you to explore my projects to see how I’ve applied these skills in real-world scenarios. Thanks for visiting!
+                    </p>
+                </div>
+
                     
                 </div>
                 
