@@ -46,10 +46,10 @@ const Data = () => {
                         <a href="https://us-immigration-statistics-b0f238985cfe.herokuapp.com/">
                         {/* <a href="https://us-immigration-statistics.onrender.com/"> */}
                             <div>
-                                <h2 className='ptitle'>US Immigration Statistics</h2> 
+                                <h2 className='ptitle'>Kidney Disease Outcome</h2> 
                             </div>
                             <div className=''>
-                                <img className='img3' alt='' src={require(`./screenshots/Screenshot-0828.png`)}/>
+                                <img className='img3' alt='' src={require(`./screenshots/Screenshot-163423.png`)}/>
                             </div>
                         </a>
                     </div>
