@@ -43,20 +43,18 @@ const Data = () => {
                 <div className="projects2">
 
                     <div className="p-box2">
-                        <a href="https://us-immigration-statistics-b0f238985cfe.herokuapp.com/">
-                        {/* <a href="https://us-immigration-statistics.onrender.com/"> */}
+                        <a href="https://kidney-disease-outcome-fc4ec49235f0.herokuapp.com/">
                             <div>
                                 <h2 className='ptitle'>Kidney Disease Outcome</h2> 
                             </div>
                             <div className=''>
-                                <img className='img3' alt='' src={require(`./screenshots/Screenshot-163423.png`)}/>
+                                <img className='img3' alt='' src={require(`./screenshots/OIP.jpg`)}/>
                             </div>
                         </a>
                     </div>
 
                     <div className="p-box2">
                         <a href="https://nav-may-2025-cbfb776ba604.herokuapp.com/">
-                        {/* <a href="https://nav-jan-2025-cf5261247926.herokuapp.com/"> */}
                             <div>
                                 <h2 className='ptitle'>BMHC Monthly Report</h2>
                             </div>
@@ -68,7 +66,6 @@ const Data = () => {
 
                     <div className="p-box2">
                         <a href="https://cxlos-pokemon-stats-45bbc3565284.herokuapp.com/">
-                        {/* <a href="https://pokemon-stats.onrender.com/"> */}
                             <div>
                                 <h2 className='ptitle'>Pokemon Statistics</h2>
                             </div>
