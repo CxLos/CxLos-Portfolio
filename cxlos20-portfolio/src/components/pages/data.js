@@ -54,12 +54,12 @@ const Data = () => {
                     </div>
 
                     <div className="p-box2">
-                        <a href="https://nav-may-2025-cbfb776ba604.herokuapp.com/">
+                        <a href="https://education-inequality-llm-0ea31d473917.herokuapp.com/">
                             <div>
-                                <h2 className='ptitle'>BMHC Monthly Report</h2>
+                                <h2 className='ptitle'>Education Inequality LLM</h2>
                             </div>
                             <div className=''>
-                            <img className='img3' alt='' src={require(`./screenshots/Screenshot-163424.png`)}/>
+                            <img className='img3' alt='' src={require(`./screenshots/224521.png`)}/>
                             </div>
                         </a>
                     </div>
