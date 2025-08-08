@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2470173782517f97a8e1589a98fe3eb8",
+    "revision": "18228085457e59f4884a4195e7842c5c",
     "url": "/CxLos-Portfolio/index.html"
   },
   {
-    "revision": "1bc025fefe15ed1968b9",
+    "revision": "383493c3786d98f80093",
     "url": "/CxLos-Portfolio/static/css/main.dd61e4f8.chunk.css"
   },
   {
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CxLos-Portfolio/static/js/3.69ba5426.chunk.js"
   },
   {
-    "revision": "1bc025fefe15ed1968b9",
-    "url": "/CxLos-Portfolio/static/js/main.9c2a3a60.chunk.js"
+    "revision": "383493c3786d98f80093",
+    "url": "/CxLos-Portfolio/static/js/main.d5a0dd1f.chunk.js"
   },
   {
     "revision": "4605ab13f3d55c09a63e",
     "url": "/CxLos-Portfolio/static/js/runtime~main.b3228ac6.js"
+  },
+  {
+    "revision": "353984b7fcbd16101dbd17679b5614c6",
+    "url": "/CxLos-Portfolio/static/media/224521.353984b7.png"
   },
   {
     "revision": "cbac98f28cb24ed3c90bca7e7ac7c7a1",
@@ -46,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4d45bb0eb85c805c5e70526c91cfe578",
     "url": "/CxLos-Portfolio/static/media/Screenshot-151238.4d45bb0e.png"
-  },
-  {
-    "revision": "f72ae5012c2127e4fb839a089cd56906",
-    "url": "/CxLos-Portfolio/static/media/Screenshot-163424.f72ae501.png"
   },
   {
     "revision": "41a92897ef7bb170650d0c7bb8041857",
