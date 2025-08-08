@@ -74,10 +74,16 @@ const About = () => {
 export default About;
 
 // eval "$(ssh-agent -s)" # Start the SSH agent
-// ssh-add ~/.ssh/id_ed25519 # Start the SSH agent
-// cat ~/.ssh/id_ed25519.pub # Copy this key and add it to your GitHub account under Settings > SSH and GPG keys
+// ssh-add ~/.ssh/id_ed25519 # add private key
+// ssh-add -l # list the keys in memory to confirm the correct key is added
+
+// cat ~/.ssh/id_ed25519.pub # Copy this public key and add it to your GitHub account under Settings > SSH and GPG
+//  keys
+
+// ssh -T git@github.com # Test the connection to GitHub
+// If you see a message like "Hi username! You've successfully authenticated, but GitHub does
 
 // eval "$(ssh-agent -s)"
 // ssh-add -D  # remove all keys from memory
 // ssh-add ~/.ssh/id_ed25519  # add the correct key
-// ssh-add -l # list the keys in memory
+
