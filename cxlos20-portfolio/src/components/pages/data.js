@@ -43,6 +43,17 @@ const Data = () => {
                 <div className="projects2">
 
                     <div className="p-box2">
+                        <a href="https://healthcare-analytics-architecture.onrender.com/">
+                            <div>
+                                <h2 className='ptitle'>Health Care Data Pipeline</h2>
+                            </div>
+                            <div className=''>
+                            <img className='img3' alt='' src={require(`./screenshots/224523.png`)}/>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div className="p-box2">
                         <a href="https://kidney-disease-outcome-fc4ec49235f0.herokuapp.com/">
                             <div>
                                 <h2 className='ptitle'>Kidney Disease Outcome</h2> 
@@ -64,16 +75,8 @@ const Data = () => {
                         </a>
                     </div>
 
-                    <div className="p-box2">
-                        <a href="https://cxlos-pokemon-stats-45bbc3565284.herokuapp.com/">
-                            <div>
-                                <h2 className='ptitle'>Pokemon Statistics</h2>
-                            </div>
-                            <div className=''>
-                            <img className='img3' alt='' src={require(`./screenshots/pokemon-vector.jpg`)}/>
-                            </div>
-                        </a>
-                    </div>
+
+
                 </div>
             </div>
 
