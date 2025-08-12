@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18228085457e59f4884a4195e7842c5c",
+    "revision": "8d452001b08120ee63c1c499fa573751",
     "url": "/CxLos-Portfolio/index.html"
   },
   {
-    "revision": "383493c3786d98f80093",
+    "revision": "8fe804567533fcfed0d4",
     "url": "/CxLos-Portfolio/static/css/main.dd61e4f8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CxLos-Portfolio/static/js/3.69ba5426.chunk.js"
   },
   {
-    "revision": "383493c3786d98f80093",
-    "url": "/CxLos-Portfolio/static/js/main.d5a0dd1f.chunk.js"
+    "revision": "8fe804567533fcfed0d4",
+    "url": "/CxLos-Portfolio/static/js/main.4e04782f.chunk.js"
   },
   {
     "revision": "4605ab13f3d55c09a63e",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "353984b7fcbd16101dbd17679b5614c6",
     "url": "/CxLos-Portfolio/static/media/224521.353984b7.png"
+  },
+  {
+    "revision": "fe5db64731159eb511ab3f3bcabe6fe5",
+    "url": "/CxLos-Portfolio/static/media/224523.fe5db647.png"
   },
   {
     "revision": "cbac98f28cb24ed3c90bca7e7ac7c7a1",
@@ -62,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fd855e79847269c08e92258d61c60649",
     "url": "/CxLos-Portfolio/static/media/headshot4.fd855e79.JPG"
-  },
-  {
-    "revision": "e81034e6082af360b80f286aff30513a",
-    "url": "/CxLos-Portfolio/static/media/pokemon-vector.e81034e6.jpg"
   },
   {
     "revision": "b88f785bccdb9ed2c383124eb921f589",
