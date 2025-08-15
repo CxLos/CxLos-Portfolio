@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CxLos-Portfolio/static/css/main.dd61e4f8.chunk.css",
-    "main.js": "/CxLos-Portfolio/static/js/main.19d976c5.chunk.js",
-    "main.js.map": "/CxLos-Portfolio/static/js/main.19d976c5.chunk.js.map",
-    "runtime~main.js": "/CxLos-Portfolio/static/js/runtime~main.b3228ac6.js",
-    "runtime~main.js.map": "/CxLos-Portfolio/static/js/runtime~main.b3228ac6.js.map",
+    "main.js": "/CxLos-Portfolio/static/js/main.2e0bc23b.chunk.js",
+    "main.js.map": "/CxLos-Portfolio/static/js/main.2e0bc23b.chunk.js.map",
+    "runtime~main.js": "/CxLos-Portfolio/static/js/runtime~main.1b225360.js",
+    "runtime~main.js.map": "/CxLos-Portfolio/static/js/runtime~main.1b225360.js.map",
     "static/js/2.cc71e090.chunk.js": "/CxLos-Portfolio/static/js/2.cc71e090.chunk.js",
     "static/js/2.cc71e090.chunk.js.map": "/CxLos-Portfolio/static/js/2.cc71e090.chunk.js.map",
-    "static/js/3.69ba5426.chunk.js": "/CxLos-Portfolio/static/js/3.69ba5426.chunk.js",
-    "static/js/3.69ba5426.chunk.js.map": "/CxLos-Portfolio/static/js/3.69ba5426.chunk.js.map",
+    "static/js/3.d5f86460.chunk.js": "/CxLos-Portfolio/static/js/3.d5f86460.chunk.js",
+    "static/js/3.d5f86460.chunk.js.map": "/CxLos-Portfolio/static/js/3.d5f86460.chunk.js.map",
     "index.html": "/CxLos-Portfolio/index.html",
-    "precache-manifest.a68c442f0e37801ac44e1e09fd6684ae.js": "/CxLos-Portfolio/precache-manifest.a68c442f0e37801ac44e1e09fd6684ae.js",
+    "precache-manifest.d4522911856171b2b334701febfdbbcb.js": "/CxLos-Portfolio/precache-manifest.d4522911856171b2b334701febfdbbcb.js",
     "service-worker.js": "/CxLos-Portfolio/service-worker.js",
     "static/css/main.dd61e4f8.chunk.css.map": "/CxLos-Portfolio/static/css/main.dd61e4f8.chunk.css.map",
     "static/media/224521.png": "/CxLos-Portfolio/static/media/224521.353984b7.png",
@@ -23,7 +23,6 @@
     "static/media/Screenshot-151238.png": "/CxLos-Portfolio/static/media/Screenshot-151238.4d45bb0e.png",
     "static/media/Screenshot-185839.png": "/CxLos-Portfolio/static/media/Screenshot-185839.41a92897.png",
     "static/media/Screenshot-191817.png": "/CxLos-Portfolio/static/media/Screenshot-191817.44f7dc53.png",
-    "static/media/headshot4.JPG": "/CxLos-Portfolio/static/media/headshot4.fd855e79.JPG",
     "static/media/resume.png": "/CxLos-Portfolio/static/media/resume.b88f785b.png"
   }
 }
