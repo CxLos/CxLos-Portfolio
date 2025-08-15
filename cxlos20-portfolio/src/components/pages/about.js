@@ -47,22 +47,19 @@ const About = () => {
 
             <div className='about'>
 
-                <div className='about1'>
+                {/* <div className='about1'>
                     <img className='me' alt='headshot' src={require(`./screenshots/headshot4.JPG`)}/>
-                </div>
+                </div> */}
 
                 <div className='border'>
-                 <div>
-                    <p className='bio'>
-                        Hello and welcome to my portfolio!<br /><br />
-                        My name is Carlos Bautista, and I hold a B.S. in Business Administration from Montclair State University. Originally from New Jersey, I moved to Austin in 2021, which was an experience that sparked my interest in the tech world and ultimately led me to pursue a career in data science.<br /><br />
-                        I began my journey by studying computer science principles at UT Austin, where I learned the fundamentals of web development. During the program, I gained hands-on experience working on both the front end and back end, using technologies such as JavaScript, React, SQL, HTML, and CSS.<br /><br />
-                        To build on this foundation, I went on to complete two more certifications: IBM Data Analyst Professional Certificate and IBM Data Science Professional Certificate. These courses deepened my understanding of data science principles and sharpened my skills in SQL and Python, along with libraries like NumPy, pandas, and matplotlib.<br /><br />
-                        I invite you to explore my projects to see how I’ve applied these skills in real-world scenarios. Thanks for visiting!
-                    </p>
-                </div>
-
-                    
+                    <div>
+                        <p className='bio'>
+                            Hello & Welcome to my Portfolio!<br /><br />
+                            Please feel free explore my projects, which highlight my skills in data analytics, data science, and machine learning, including the development of end-to-end data pipelines, predictive models, and generative AI applications. <br /><br />
+                            Explore examples of real-time and batch data workflows, Python applications (pandas, NumPy, scikit-learn, matplotlib), SQL, & data engineering tools, all applied to build robust & comprehensive data applications. <br /><br />
+                            Thanks for visiting!
+                        </p>
+                    </div>
                 </div>
                 
 
