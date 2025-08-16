@@ -72,6 +72,7 @@ export default About;
 
 // eval "$(ssh-agent -s)" # Start the SSH agent
 // ssh-add ~/.ssh/id_ed25519 # add private key
+// ssh-add ~/.ssh/id_rsa # permanently add key
 // ssh-add -l # list the keys in memory to confirm the correct key is added
 
 // cat ~/.ssh/id_ed25519.pub # Copy this public key and add it to your GitHub account under Settings > SSH and GPG

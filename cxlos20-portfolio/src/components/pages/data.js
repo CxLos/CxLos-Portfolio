@@ -34,13 +34,16 @@ const AnimatedTypingText = () => {
 const Data = () => {
     return(
         <div className='projects'>
-            <header>
-                {/* <h1>Projects Coming Soon!</h1> */}
-                <AnimatedTypingText />
-            </header>
 
-            <div className='p-border'>
-                <div className="projects2">
+            <div className='project-title'>
+               <header>
+                    {/* <h1>Projects Coming Soon!</h1> */}
+                    <AnimatedTypingText />
+                </header>
+            </div>
+
+            {/* <div className='p-border'> */}
+                <div className="projects3">
 
                     <div className="p-box2">
                         <a href="https://patient-check-in-stream-c57db50559ba.herokuapp.com/">
@@ -76,7 +79,7 @@ const Data = () => {
                     </div>
 
                 </div>
-            </div>
+            {/* </div> */}
 
             {/* <div className='p-border'>
                 <div className="projects2">
