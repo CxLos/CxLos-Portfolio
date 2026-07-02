@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86985cce2ec9abfcf5dff42019bf9874",
+    "revision": "4659d1b0f35ed1ddf9bfc328fe661e37",
     "url": "/CxLos-Portfolio/index.html"
   },
   {
-    "revision": "e81651eddde25739cf78",
+    "revision": "9fe042d98eb2d158d568",
     "url": "/CxLos-Portfolio/static/css/main.7f23b438.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CxLos-Portfolio/static/js/3.d5f86460.chunk.js"
   },
   {
-    "revision": "e81651eddde25739cf78",
-    "url": "/CxLos-Portfolio/static/js/main.18a14ee0.chunk.js"
+    "revision": "9fe042d98eb2d158d568",
+    "url": "/CxLos-Portfolio/static/js/main.ad15abe2.chunk.js"
   },
   {
     "revision": "d22b1ab81a61986164b2",
